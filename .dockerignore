@@ -1,0 +1,10 @@
+.git
+.github
+.env
+.env.*
+medibot
+__pycache__
+*.py[cod]
+*.egg-info
+research
+data
