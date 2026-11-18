@@ -1,40 +1,44 @@
-# Knowledge Graph Medical Chatbot
+# Local Knowledge Graph Medical Chatbot
 
-A Flask medical-reference chatbot using hybrid retrieval augmented generation. It extracts entities and relationships from PDF source material into Neo4j, retrieves related facts with Cypher, combines those results with Pinecone vector search, and generates an answer with Groq.
+A locally run Flask chatbot that reads medical reference PDFs, extracts entities and relationships with Groq, stores the graph in Neo4j, searches document embeddings in Pinecone, and combines both sources to answer questions.
 
-## Quick start
+The Flask web server listens on `127.0.0.1` only. Groq and Pinecone are external services; Neo4j can run locally. This is a medical information demo, not a diagnosis or emergency service.
 
-1. Install Python 3.10 and create a virtual environment.
-2. Install dependencies and prepare local configuration:
+## Run it locally
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+Use Python 3.10 or newer. Install and configure the project from PowerShell:
 
-   Copy `.env.example` to `.env`, then fill in valid Pinecone, Groq, and Neo4j credentials. Never commit `.env`.
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+Copy-Item .env.example .env
+```
 
-3. Put source PDFs in `data/` and build the graph and vector indexes:
+Edit `.env` with your Pinecone and Groq API keys and your Neo4j local connection details. Never commit `.env`. Start a local Neo4j database, then put PDFs into `data/` and build the graph and vector indexes:
 
-   ```bash
-   python store_index.py
-   ```
+```powershell
+python store_index.py
+```
 
-4. Start the web app and open `http://127.0.0.1:8080`:
+Start the app:
 
-   ```bash
-   python app.py
-   ```
+```powershell
+python app.py
+```
 
-Indexing calls the Groq model for entity and relationship extraction from every text chunk, so its runtime and API usage depend on the amount of PDF content.
+Open `http://127.0.0.1:8080` on the same computer. The local web server is not exposed to other devices on your network.
+
+Indexing calls Groq once for each text chunk and can take time on large PDF collections. Run it again when you add or change source PDFs.
 
 ## Documentation
 
-See [APP_DOCUMENTATION.md](APP_DOCUMENTATION.md) for the architecture, graph schema, retrieval flow, configuration, local run instructions, evaluation notes, Docker deployment, AWS/GitHub Actions setup, and troubleshooting.
+See [APP_DOCUMENTATION.md](APP_DOCUMENTATION.md) for the architecture, graph schema, retrieval details, environment variables, indexing steps, local troubleshooting, and evaluation limitations.
 
 ## Evaluation
 
-`evaluate_rag.py` contains a small Pinecone-only baseline prompt evaluation. Its phrase-based hit@3 and grounding scores are screening metrics, not clinical correctness measurements. The main app uses both Neo4j and Pinecone.
+`evaluate_rag.py` is a Pinecone-only baseline prompt evaluation. Its phrase-based scores are screening measures, not clinical correctness judgments, and it does not evaluate the production graph retrieval path.
 
-## Safety and privacy
+## Privacy
 
-This is a medical information demo, not a diagnostic or emergency service. The app has no authentication or rate limiting. Questions and retrieved text are sent to Groq; avoid submitting personal health information.
+Questions and retrieved source text are sent to Groq. Avoid submitting personal health information. The chat app has no accounts or rate limiting.
