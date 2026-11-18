@@ -125,7 +125,7 @@ The indexing process:
 5. Writes chunk, entity, mention, and relationship records to Neo4j.
 6. Writes chunk vectors to Pinecone with stable IDs.
 
-Groq is called for each chunk, so indexing a large book can take time and consume API usage. The graph writes use `MERGE` and vector upserts use stable IDs, making reruns for unchanged content idempotent. If source text changes, the changed chunks receive new IDs; this script does not delete obsolete chunks from either database. Plan a deliberate cleanup/rebuild if replacing or removing source files.
+Groq is called for each chunk, so indexing a large book can take time and consume API usage. If interrupted, rerunning skips chunks already committed to Neo4j and continues with the remaining chunks; after graph extraction completes, it upserts the full vector set using stable IDs. If source text changes, the changed chunks receive new IDs; this script does not delete obsolete chunks from either database. Plan a deliberate cleanup/rebuild if replacing or removing source files.
 
 The indexer does not run automatically when the web app starts. Populate both databases before launching the app.
 

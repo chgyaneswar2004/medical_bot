@@ -7,7 +7,13 @@ from langchain_groq import ChatGroq
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone, ServerlessSpec
 
-from src.graph_rag import Neo4jGraphStore, extract_graph_data, stable_chunk_id
+from src.graph_rag import (
+    GRAPH_EXTRACTION_SCHEMA,
+    Neo4jGraphStore,
+    extract_graph_data,
+    groq_json_schema,
+    stable_chunk_id,
+)
 from src.helper import (
     download_hugging_face_embeddings,
     filter_to_minimal_docs,
@@ -36,7 +42,9 @@ def main() -> None:
     model_name = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
     extraction_model = ChatGroq(
         model=model_name,
-        model_kwargs={"response_format": {"type": "json_object"}},
+        model_kwargs={
+            "response_format": groq_json_schema("medical_graph_extraction", GRAPH_EXTRACTION_SCHEMA),
+        },
     )
     embeddings = download_hugging_face_embeddings()
 
@@ -60,17 +68,25 @@ def main() -> None:
         database=os.getenv("NEO4J_DATABASE", "neo4j"),
     )
     try:
+        skipped_chunks = 0
         for number, chunk in enumerate(chunks, 1):
-            graph_data = extract_graph_data(chunk.page_content, extraction_model)
-            graph_store.store_chunk(
-                chunk_id=chunk.metadata["chunk_id"],
-                text=chunk.page_content,
-                source=str(chunk.metadata.get("source", "unknown")),
-                page=str(chunk.metadata.get("page", "")),
-                graph_data=graph_data,
-            )
+            chunk_id = chunk.metadata["chunk_id"]
+            if graph_store.has_chunk(chunk_id):
+                skipped_chunks += 1
+            else:
+                graph_data = extract_graph_data(chunk.page_content, extraction_model)
+                graph_store.store_chunk(
+                    chunk_id=chunk_id,
+                    text=chunk.page_content,
+                    source=str(chunk.metadata.get("source", "unknown")),
+                    page=str(chunk.metadata.get("page", "")),
+                    graph_data=graph_data,
+                )
             if number % 25 == 0 or number == len(chunks):
-                print(f"Stored graph data for {number}/{len(chunks)} chunks")
+                print(
+                    f"Processed graph data for {number}/{len(chunks)} chunks "
+                    f"({skipped_chunks} already stored)"
+                )
     finally:
         graph_store.close()
 
