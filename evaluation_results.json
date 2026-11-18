@@ -1,0 +1,1532 @@
+[
+  {
+    "id": 1,
+    "question": "What is hypertension?",
+    "variant": "baseline",
+    "answer": "Hypertension, or high blood pressure, is a condition in which the force of blood against the walls of the arteries is consistently elevated. This excess pressure strains the heart and blood vessels, increasing the risk of stroke, heart failure, kidney failure, and heart attacks. Controlling hypertension through lifestyle changes or medication reduces these serious complications.",
+    "retrieved": [
+      "(BPH), a condition that affects men and is characterized\nby an enlarged prostate gland.\nHigh blood pressure\nHigh blood pressure puts a strain on the heart and\nthe arteries. Over time, hypertension can damage the\nblood vessels to the point of causing stroke, heart fail-\nure or kidney failure. People with high blood pressure\nmay also be at higher risk for heart attacks. Controlling\nhigh blood pressure makes these problems less likely.\nAlpha blockers help lower blood pressure by causing",
+      "(BPH), a condition that affects men and is characterized\nby an enlarged prostate gland.\nHigh blood pressure\nHigh blood pressure puts a strain on the heart and\nthe arteries. Over time, hypertension can damage the\nblood vessels to the point of causing stroke, heart fail-\nure or kidney failure. People with high blood pressure\nmay also be at higher risk for heart attacks. Controlling\nhigh blood pressure makes these problems less likely.\nAlpha blockers help lower blood pressure by causing",
+      "heart and lungs.\n\u2022 Seek treatment for hypertension\u2014High blood pressure\ncan be controlled through lifestyle changes\u2014reducing\nsodium and fat, exercising, managing stress, quitting\nKEY TERMS\nArteriosclerosis \u2014Hardening of the arteries. It\nincludes atherosclerosis, but the two terms are\noften used synonymously.\nCholesterol\u2014A fat-like substance that is made by\nthe human body and eaten in animal products.\nCholesterol is used to form cell membranes and\nprocess hormones and vitamin D. High choles-"
+    ],
+    "expected_phrases": [
+      "high blood pressure",
+      "blood pressure"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 1,
+    "question": "What is hypertension?",
+    "variant": "evidence_first",
+    "answer": "Hypertension, also called high blood pressure, is a condition in which blood pressure is elevated, putting strain on the heart and arteries. Over time it can damage blood vessels and increase the risk of stroke, heart failure, kidney failure, and heart attacks. Controlling hypertension reduces these risks.",
+    "retrieved": [
+      "(BPH), a condition that affects men and is characterized\nby an enlarged prostate gland.\nHigh blood pressure\nHigh blood pressure puts a strain on the heart and\nthe arteries. Over time, hypertension can damage the\nblood vessels to the point of causing stroke, heart fail-\nure or kidney failure. People with high blood pressure\nmay also be at higher risk for heart attacks. Controlling\nhigh blood pressure makes these problems less likely.\nAlpha blockers help lower blood pressure by causing",
+      "(BPH), a condition that affects men and is characterized\nby an enlarged prostate gland.\nHigh blood pressure\nHigh blood pressure puts a strain on the heart and\nthe arteries. Over time, hypertension can damage the\nblood vessels to the point of causing stroke, heart fail-\nure or kidney failure. People with high blood pressure\nmay also be at higher risk for heart attacks. Controlling\nhigh blood pressure makes these problems less likely.\nAlpha blockers help lower blood pressure by causing",
+      "heart and lungs.\n\u2022 Seek treatment for hypertension\u2014High blood pressure\ncan be controlled through lifestyle changes\u2014reducing\nsodium and fat, exercising, managing stress, quitting\nKEY TERMS\nArteriosclerosis \u2014Hardening of the arteries. It\nincludes atherosclerosis, but the two terms are\noften used synonymously.\nCholesterol\u2014A fat-like substance that is made by\nthe human body and eaten in animal products.\nCholesterol is used to form cell membranes and\nprocess hormones and vitamin D. High choles-"
+    ],
+    "expected_phrases": [
+      "high blood pressure",
+      "blood pressure"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 1,
+    "question": "What is hypertension?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Hypertension, or high blood pressure, is a condition in which blood pressure is elevated, putting strain on the heart and arteries. Over time this strain can damage blood vessels, increasing the risk of stroke, heart failure, kidney failure, and heart attacks. Controlling hypertension reduces the likelihood of these complications.",
+    "retrieved": [
+      "(BPH), a condition that affects men and is characterized\nby an enlarged prostate gland.\nHigh blood pressure\nHigh blood pressure puts a strain on the heart and\nthe arteries. Over time, hypertension can damage the\nblood vessels to the point of causing stroke, heart fail-\nure or kidney failure. People with high blood pressure\nmay also be at higher risk for heart attacks. Controlling\nhigh blood pressure makes these problems less likely.\nAlpha blockers help lower blood pressure by causing",
+      "(BPH), a condition that affects men and is characterized\nby an enlarged prostate gland.\nHigh blood pressure\nHigh blood pressure puts a strain on the heart and\nthe arteries. Over time, hypertension can damage the\nblood vessels to the point of causing stroke, heart fail-\nure or kidney failure. People with high blood pressure\nmay also be at higher risk for heart attacks. Controlling\nhigh blood pressure makes these problems less likely.\nAlpha blockers help lower blood pressure by causing",
+      "heart and lungs.\n\u2022 Seek treatment for hypertension\u2014High blood pressure\ncan be controlled through lifestyle changes\u2014reducing\nsodium and fat, exercising, managing stress, quitting\nKEY TERMS\nArteriosclerosis \u2014Hardening of the arteries. It\nincludes atherosclerosis, but the two terms are\noften used synonymously.\nCholesterol\u2014A fat-like substance that is made by\nthe human body and eaten in animal products.\nCholesterol is used to form cell membranes and\nprocess hormones and vitamin D. High choles-"
+    ],
+    "expected_phrases": [
+      "high blood pressure",
+      "blood pressure"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 2,
+    "question": "What are common symptoms of diabetes?",
+    "variant": "baseline",
+    "answer": "Common symptoms of diabetes include persistent fatigue and elevated blood\u2011sugar levels (hyperglycemia).\u202fPeople may also experience episodes of low blood sugar (hypoglycemia) that can be detected by testing.\u202fIf untreated, these sugar abnormalities can lead to damage of eyes, kidneys, nerves, heart and blood vessels.",
+    "retrieved": [
+      "\u2022 Type I diabetes mellitus. Characterized by fatigue and\nan abnormally high level of glucose in the blood\n(hyperglycemia).\n\u2022 Amyotrophic lateral schlerosis. First signs are stum-\nbling and difficulty climbing stairs. Later, muscle\ncramps and twitching may be observed as well as\nweakness in the hands making fastening buttons or\nturning a key difficult. Speech may become slowed or\nslurred. There may also be difficluty swallowing. As\nrespiratory muscles atrophy, there is increased danger",
+      "\u2022 Type I diabetes mellitus. Characterized by fatigue and\nan abnormally high level of glucose in the blood\n(hyperglycemia).\n\u2022 Amyotrophic lateral schlerosis. First signs are stum-\nbling and difficulty climbing stairs. Later, muscle\ncramps and twitching may be observed as well as\nweakness in the hands making fastening buttons or\nturning a key difficult. Speech may become slowed or\nslurred. There may also be difficluty swallowing. As\nrespiratory muscles atrophy, there is increased danger",
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is"
+    ],
+    "expected_phrases": [
+      "diabetes",
+      "blood glucose"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 2,
+    "question": "What are common symptoms of diabetes?",
+    "variant": "evidence_first",
+    "answer": "The excerpts note that diabetes commonly presents with fatigue and an abnormally high blood\u2011sugar level (hyperglycemia).",
+    "retrieved": [
+      "\u2022 Type I diabetes mellitus. Characterized by fatigue and\nan abnormally high level of glucose in the blood\n(hyperglycemia).\n\u2022 Amyotrophic lateral schlerosis. First signs are stum-\nbling and difficulty climbing stairs. Later, muscle\ncramps and twitching may be observed as well as\nweakness in the hands making fastening buttons or\nturning a key difficult. Speech may become slowed or\nslurred. There may also be difficluty swallowing. As\nrespiratory muscles atrophy, there is increased danger",
+      "\u2022 Type I diabetes mellitus. Characterized by fatigue and\nan abnormally high level of glucose in the blood\n(hyperglycemia).\n\u2022 Amyotrophic lateral schlerosis. First signs are stum-\nbling and difficulty climbing stairs. Later, muscle\ncramps and twitching may be observed as well as\nweakness in the hands making fastening buttons or\nturning a key difficult. Speech may become slowed or\nslurred. There may also be difficluty swallowing. As\nrespiratory muscles atrophy, there is increased danger",
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is"
+    ],
+    "expected_phrases": [
+      "diabetes",
+      "blood glucose"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 2,
+    "question": "What are common symptoms of diabetes?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "The excerpts state that diabetes is characterized by fatigue and an abnormally high level of glucose in the blood (hyperglycemia).",
+    "retrieved": [
+      "\u2022 Type I diabetes mellitus. Characterized by fatigue and\nan abnormally high level of glucose in the blood\n(hyperglycemia).\n\u2022 Amyotrophic lateral schlerosis. First signs are stum-\nbling and difficulty climbing stairs. Later, muscle\ncramps and twitching may be observed as well as\nweakness in the hands making fastening buttons or\nturning a key difficult. Speech may become slowed or\nslurred. There may also be difficluty swallowing. As\nrespiratory muscles atrophy, there is increased danger",
+      "\u2022 Type I diabetes mellitus. Characterized by fatigue and\nan abnormally high level of glucose in the blood\n(hyperglycemia).\n\u2022 Amyotrophic lateral schlerosis. First signs are stum-\nbling and difficulty climbing stairs. Later, muscle\ncramps and twitching may be observed as well as\nweakness in the hands making fastening buttons or\nturning a key difficult. Speech may become slowed or\nslurred. There may also be difficluty swallowing. As\nrespiratory muscles atrophy, there is increased danger",
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is"
+    ],
+    "expected_phrases": [
+      "diabetes",
+      "blood glucose"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 3,
+    "question": "What is hypoglycemia?",
+    "variant": "baseline",
+    "answer": "Hypoglycemia is a condition characterized by abnormally low blood\u2011sugar (glucose) levels. It often results in symptoms such as shakiness, sweating, confusion, and can be detected through blood\u2011sugar testing. If severe, it may lead to neurological impairment or loss of consciousness.",
+    "retrieved": [
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is",
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is",
+      "200 mg/dL\n\u2022 casual plasma glucose test (nonfasting, with symptoms)\nless than or equal to 200 mg/dL\n\u2022 gestational oral glucose tolerance test, 1 hour less than\nor equal to 140 mg/dL\nBrain damage can occur from glucose levels below\n40 mg/dL and coma from levels above 470 mg/dL.\nOther hormone disorders can cause both hyper-\nglycemia and hypoglycemia. Abnormal results must be\ninterpreted by a doctor who is aware of the person\u2019s med-\nical condition and medical history.\nResources\nBOOKS"
+    ],
+    "expected_phrases": [
+      "low blood sugar",
+      "blood glucose"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": false
+  },
+  {
+    "id": 3,
+    "question": "What is hypoglycemia?",
+    "variant": "evidence_first",
+    "answer": "Hypoglycemia is a condition of low blood sugar, which can be identified through blood\u2011sugar testing.",
+    "retrieved": [
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is",
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is",
+      "200 mg/dL\n\u2022 casual plasma glucose test (nonfasting, with symptoms)\nless than or equal to 200 mg/dL\n\u2022 gestational oral glucose tolerance test, 1 hour less than\nor equal to 140 mg/dL\nBrain damage can occur from glucose levels below\n40 mg/dL and coma from levels above 470 mg/dL.\nOther hormone disorders can cause both hyper-\nglycemia and hypoglycemia. Abnormal results must be\ninterpreted by a doctor who is aware of the person\u2019s med-\nical condition and medical history.\nResources\nBOOKS"
+    ],
+    "expected_phrases": [
+      "low blood sugar",
+      "blood glucose"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 3,
+    "question": "What is hypoglycemia?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Hypoglycemia is a condition of low blood sugar, often identified through blood\u2011sugar testing.",
+    "retrieved": [
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is",
+      "begin to fall. A person with diabetes mellitus either does\nnot make enough insulin, or makes insulin that does not\nwork properly. The result is blood sugar that remains\nhigh, a condition called hyperglycemia.\nDiabetes must be diagnosed as early as possible. If\nleft untreated, it can damage or cause failure of the eyes,\nkidneys, nerves, heart, blood vessels, and other body\norgans. Hypoglycemia, or low blood sugar, may also be\ndiscovered through blood sugar testing. Hypoglycemia is",
+      "200 mg/dL\n\u2022 casual plasma glucose test (nonfasting, with symptoms)\nless than or equal to 200 mg/dL\n\u2022 gestational oral glucose tolerance test, 1 hour less than\nor equal to 140 mg/dL\nBrain damage can occur from glucose levels below\n40 mg/dL and coma from levels above 470 mg/dL.\nOther hormone disorders can cause both hyper-\nglycemia and hypoglycemia. Abnormal results must be\ninterpreted by a doctor who is aware of the person\u2019s med-\nical condition and medical history.\nResources\nBOOKS"
+    ],
+    "expected_phrases": [
+      "low blood sugar",
+      "blood glucose"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 4,
+    "question": "What is anemia?",
+    "variant": "baseline",
+    "answer": "Anemia is a condition in which there are abnormally low levels of healthy red blood cells or hemoglobin. Hemoglobin is the component of red blood cells that carries oxygen to the body\u2019s tissues. Consequently, anemia impairs the regular supply of oxygen needed for tissue health.",
+    "retrieved": [
+      "Anemias\nDefinition\nAnemia is a condition characterized by abnormally\nlow levels of healthy red blood cells or hemoglobin (the\ncomponent of red blood cells that delivers oxygen to tis-\nsues throughout the body).\nDescription\nThe tissues of the human body need a regular supply\nof oxygen to stay healthy. Red blood cells, which contain\nhemoglobin that allows them to deliver oxygen throughout\nthe body, live for only about 120 days. When they die, the",
+      "Anemias\nDefinition\nAnemia is a condition characterized by abnormally\nlow levels of healthy red blood cells or hemoglobin (the\ncomponent of red blood cells that delivers oxygen to tis-\nsues throughout the body).\nDescription\nThe tissues of the human body need a regular supply\nof oxygen to stay healthy. Red blood cells, which contain\nhemoglobin that allows them to deliver oxygen throughout\nthe body, live for only about 120 days. When they die, the",
+      "Anemias\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 182"
+    ],
+    "expected_phrases": [
+      "anemia",
+      "hemoglobin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 4,
+    "question": "What is anemia?",
+    "variant": "evidence_first",
+    "answer": "Anemia is a condition characterized by abnormally low levels of healthy red blood cells or hemoglobin, the component that delivers oxygen to tissues throughout the body.",
+    "retrieved": [
+      "Anemias\nDefinition\nAnemia is a condition characterized by abnormally\nlow levels of healthy red blood cells or hemoglobin (the\ncomponent of red blood cells that delivers oxygen to tis-\nsues throughout the body).\nDescription\nThe tissues of the human body need a regular supply\nof oxygen to stay healthy. Red blood cells, which contain\nhemoglobin that allows them to deliver oxygen throughout\nthe body, live for only about 120 days. When they die, the",
+      "Anemias\nDefinition\nAnemia is a condition characterized by abnormally\nlow levels of healthy red blood cells or hemoglobin (the\ncomponent of red blood cells that delivers oxygen to tis-\nsues throughout the body).\nDescription\nThe tissues of the human body need a regular supply\nof oxygen to stay healthy. Red blood cells, which contain\nhemoglobin that allows them to deliver oxygen throughout\nthe body, live for only about 120 days. When they die, the",
+      "Anemias\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 182"
+    ],
+    "expected_phrases": [
+      "anemia",
+      "hemoglobin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 4,
+    "question": "What is anemia?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Anemia is a condition characterized by abnormally low levels of healthy red blood cells or hemoglobin, the component of red blood cells that delivers oxygen to tissues throughout the body.",
+    "retrieved": [
+      "Anemias\nDefinition\nAnemia is a condition characterized by abnormally\nlow levels of healthy red blood cells or hemoglobin (the\ncomponent of red blood cells that delivers oxygen to tis-\nsues throughout the body).\nDescription\nThe tissues of the human body need a regular supply\nof oxygen to stay healthy. Red blood cells, which contain\nhemoglobin that allows them to deliver oxygen throughout\nthe body, live for only about 120 days. When they die, the",
+      "Anemias\nDefinition\nAnemia is a condition characterized by abnormally\nlow levels of healthy red blood cells or hemoglobin (the\ncomponent of red blood cells that delivers oxygen to tis-\nsues throughout the body).\nDescription\nThe tissues of the human body need a regular supply\nof oxygen to stay healthy. Red blood cells, which contain\nhemoglobin that allows them to deliver oxygen throughout\nthe body, live for only about 120 days. When they die, the",
+      "Anemias\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 182"
+    ],
+    "expected_phrases": [
+      "anemia",
+      "hemoglobin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 5,
+    "question": "What causes iron deficiency anemia?",
+    "variant": "baseline",
+    "answer": "Iron deficiency anemia occurs when the body loses more iron than it obtains from food and other sources, depleting iron stores needed for red\u2011blood\u2011cell production. Common causes include heavy bleeding, inadequate dietary iron intake, and conditions that increase iron loss or reduce absorption. The resulting shortage limits red\u2011blood\u2011cell formation, leading to anemia.",
+    "retrieved": [
+      "begins when the body loses more iron than it derives\nfrom food and other sources. Because depleted iron\nstores cannot meet the red blood cell\u2019s needs, fewer red\nblood cells develop. In this early stage of anemia, the red\nblood cells look normal, but they are reduced in number.\nThen the body tries to compensate for the iron deficiency\nby producing more red blood cells, which are character-\nistically small in size. Symptoms develop at this stage.\nFOLIC ACID DEFICIENCY ANEMIA. Folic acid defi-",
+      "begins when the body loses more iron than it derives\nfrom food and other sources. Because depleted iron\nstores cannot meet the red blood cell\u2019s needs, fewer red\nblood cells develop. In this early stage of anemia, the red\nblood cells look normal, but they are reduced in number.\nThen the body tries to compensate for the iron deficiency\nby producing more red blood cells, which are character-\nistically small in size. Symptoms develop at this stage.\nFOLIC ACID DEFICIENCY ANEMIA. Folic acid defi-",
+      "iron they contain is returned to the bone marrow and used\nto create new red blood cells. Anemia develops when\nheavy bleeding causes significant iron loss or when some-\nthing happens to slow down the production of red blood\ncells or to increase the rate at which they are destroyed.\nTypes of anemia\nAnemia can be mild, moderate, or severe enough to\nlead to life-threatening complications. More than 400\ndifferent types of anemia have been identified. Many of\nthem are rare."
+    ],
+    "expected_phrases": [
+      "iron deficiency",
+      "iron"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 5,
+    "question": "What causes iron deficiency anemia?",
+    "variant": "evidence_first",
+    "answer": "Iron deficiency anemia occurs when the body loses more iron than it obtains from food and other sources, depleting iron stores needed for red blood cell production. Heavy bleeding that causes significant iron loss is a common trigger. The resulting shortage of iron reduces the number of red blood cells, leading to anemia.",
+    "retrieved": [
+      "begins when the body loses more iron than it derives\nfrom food and other sources. Because depleted iron\nstores cannot meet the red blood cell\u2019s needs, fewer red\nblood cells develop. In this early stage of anemia, the red\nblood cells look normal, but they are reduced in number.\nThen the body tries to compensate for the iron deficiency\nby producing more red blood cells, which are character-\nistically small in size. Symptoms develop at this stage.\nFOLIC ACID DEFICIENCY ANEMIA. Folic acid defi-",
+      "begins when the body loses more iron than it derives\nfrom food and other sources. Because depleted iron\nstores cannot meet the red blood cell\u2019s needs, fewer red\nblood cells develop. In this early stage of anemia, the red\nblood cells look normal, but they are reduced in number.\nThen the body tries to compensate for the iron deficiency\nby producing more red blood cells, which are character-\nistically small in size. Symptoms develop at this stage.\nFOLIC ACID DEFICIENCY ANEMIA. Folic acid defi-",
+      "iron they contain is returned to the bone marrow and used\nto create new red blood cells. Anemia develops when\nheavy bleeding causes significant iron loss or when some-\nthing happens to slow down the production of red blood\ncells or to increase the rate at which they are destroyed.\nTypes of anemia\nAnemia can be mild, moderate, or severe enough to\nlead to life-threatening complications. More than 400\ndifferent types of anemia have been identified. Many of\nthem are rare."
+    ],
+    "expected_phrases": [
+      "iron deficiency",
+      "iron"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 5,
+    "question": "What causes iron deficiency anemia?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Iron deficiency anemia occurs when the body loses more iron than it obtains from food and other sources, depleting iron stores needed for red\u2011blood\u2011cell production. Heavy bleeding is a common cause of such iron loss, and any condition that reduces iron intake or increases loss can lead to the anemia. (Based on the provided excerpts.)",
+    "retrieved": [
+      "begins when the body loses more iron than it derives\nfrom food and other sources. Because depleted iron\nstores cannot meet the red blood cell\u2019s needs, fewer red\nblood cells develop. In this early stage of anemia, the red\nblood cells look normal, but they are reduced in number.\nThen the body tries to compensate for the iron deficiency\nby producing more red blood cells, which are character-\nistically small in size. Symptoms develop at this stage.\nFOLIC ACID DEFICIENCY ANEMIA. Folic acid defi-",
+      "begins when the body loses more iron than it derives\nfrom food and other sources. Because depleted iron\nstores cannot meet the red blood cell\u2019s needs, fewer red\nblood cells develop. In this early stage of anemia, the red\nblood cells look normal, but they are reduced in number.\nThen the body tries to compensate for the iron deficiency\nby producing more red blood cells, which are character-\nistically small in size. Symptoms develop at this stage.\nFOLIC ACID DEFICIENCY ANEMIA. Folic acid defi-",
+      "iron they contain is returned to the bone marrow and used\nto create new red blood cells. Anemia develops when\nheavy bleeding causes significant iron loss or when some-\nthing happens to slow down the production of red blood\ncells or to increase the rate at which they are destroyed.\nTypes of anemia\nAnemia can be mild, moderate, or severe enough to\nlead to life-threatening complications. More than 400\ndifferent types of anemia have been identified. Many of\nthem are rare."
+    ],
+    "expected_phrases": [
+      "iron deficiency",
+      "iron"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 6,
+    "question": "What is asthma?",
+    "variant": "baseline",
+    "answer": "Asthma is a chronic inflammatory disorder of the airways that causes reversible narrowing and obstruction, making breathing difficult and often shallow. Triggers include allergens (pollen, dust, pets), exercise, stress, cold air, certain medications, and some medical conditions. During an attack, airflow is limited, leading to shortness of breath and increased effort to breathe.",
+    "retrieved": [
+      "GALE ENCYCLOPEDIA OF MEDICINE 2 379\nAsthma\nGEM - 0001 to 0432 - A  10/22/03 1:43 PM  Page 379",
+      "GALE ENCYCLOPEDIA OF MEDICINE 2 379\nAsthma\nGEM - 0001 to 0432 - A  10/22/03 1:43 PM  Page 379",
+      "it stays trapped in the lungs. With each new breath, the\nperson can take in only a little more air, so breathing\nbecomes shallow and takes more and more effort.\nAsthma attacks can be caused by allergies to pollen,\ndust, pets or other things, but people without known\nallergies may also have asthma. Exercise, stress, intense\nemotions, exposure to cold, certain medicines and some\nmedical conditions also can bring on attacks.\nThe two main approaches to dealing with asthma are"
+    ],
+    "expected_phrases": [
+      "asthma",
+      "airway"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 6,
+    "question": "What is asthma?",
+    "variant": "evidence_first",
+    "answer": "Asthma is a respiratory condition in which air becomes trapped in the lungs, making each breath increasingly shallow and effortful.\u202fAttacks can be triggered by allergies to pollen, dust, pets, or other substances, as well as by exercise, stress, intense emotions, cold exposure, certain medicines, and some medical conditions. (Gale Encyclopedia of Medicine, p.\u202f379)",
+    "retrieved": [
+      "GALE ENCYCLOPEDIA OF MEDICINE 2 379\nAsthma\nGEM - 0001 to 0432 - A  10/22/03 1:43 PM  Page 379",
+      "GALE ENCYCLOPEDIA OF MEDICINE 2 379\nAsthma\nGEM - 0001 to 0432 - A  10/22/03 1:43 PM  Page 379",
+      "it stays trapped in the lungs. With each new breath, the\nperson can take in only a little more air, so breathing\nbecomes shallow and takes more and more effort.\nAsthma attacks can be caused by allergies to pollen,\ndust, pets or other things, but people without known\nallergies may also have asthma. Exercise, stress, intense\nemotions, exposure to cold, certain medicines and some\nmedical conditions also can bring on attacks.\nThe two main approaches to dealing with asthma are"
+    ],
+    "expected_phrases": [
+      "asthma",
+      "airway"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 6,
+    "question": "What is asthma?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Asthma is a respiratory condition in which air becomes trapped in the lungs, leading to increasingly shallow and effortful breathing.\u202fAttacks can be triggered by allergies to pollen, dust, pets, or other substances, as well as by exercise, stress, intense emotions, cold exposure, certain medicines, and some medical conditions. (The excerpt does not provide a formal definition beyond this description.)",
+    "retrieved": [
+      "GALE ENCYCLOPEDIA OF MEDICINE 2 379\nAsthma\nGEM - 0001 to 0432 - A  10/22/03 1:43 PM  Page 379",
+      "GALE ENCYCLOPEDIA OF MEDICINE 2 379\nAsthma\nGEM - 0001 to 0432 - A  10/22/03 1:43 PM  Page 379",
+      "it stays trapped in the lungs. With each new breath, the\nperson can take in only a little more air, so breathing\nbecomes shallow and takes more and more effort.\nAsthma attacks can be caused by allergies to pollen,\ndust, pets or other things, but people without known\nallergies may also have asthma. Exercise, stress, intense\nemotions, exposure to cold, certain medicines and some\nmedical conditions also can bring on attacks.\nThe two main approaches to dealing with asthma are"
+    ],
+    "expected_phrases": [
+      "asthma",
+      "airway"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 7,
+    "question": "What are symptoms of pneumonia?",
+    "variant": "baseline",
+    "answer": "Pneumonia often presents with a worsening cough that produces increased, sometimes bloody, sputum, accompanied by fever. Shortness of breath and chest discomfort may also develop as the infection spreads. These signs typically follow the low\u2011level infection flare seen in conditions like bronchiectasis.",
+    "retrieved": [
+      "bronchiectasis.\nSymptoms of bronchiectasis include constant cough\nand the production of infected sputum (sputum is a mix-\nture of mucus and pus), which may be bloody. In some\ncases, there may be wheezing and shortness of breath .\nThe constant, low-level of infection may flare, resulting\nin increased production of sputum, worsening of the\ncough, and fever. The area of the lung served by the\naffected bronchial tube may become severely infected,\nresulting in pneumonia.",
+      "bronchiectasis.\nSymptoms of bronchiectasis include constant cough\nand the production of infected sputum (sputum is a mix-\nture of mucus and pus), which may be bloody. In some\ncases, there may be wheezing and shortness of breath .\nThe constant, low-level of infection may flare, resulting\nin increased production of sputum, worsening of the\ncough, and fever. The area of the lung served by the\naffected bronchial tube may become severely infected,\nresulting in pneumonia.",
+      "bronchitis may progress to emphysema, or both diseases\nmay be present together.\nCauses and symptoms\nAcute bronchitis\nAcute bronchitis usually begins with the symptoms\nof a cold, such as a runny nose, sneezing, and dry cough.\nHowever, the cough soon becomes deep and painful.\nCoughing brings up a greenish yellow phlegm or sputum.\nThese symptoms may be accompanied by a fever of up\nto 102\u00b0F (38.8\u00b0C). Wheezing after coughing is common.\nIn uncomplicated acute bronchitis, the fever and"
+    ],
+    "expected_phrases": [
+      "pneumonia",
+      "lung"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 7,
+    "question": "What are symptoms of pneumonia?",
+    "variant": "evidence_first",
+    "answer": "The excerpts do not provide enough information to list the symptoms of pneumonia.",
+    "retrieved": [
+      "bronchiectasis.\nSymptoms of bronchiectasis include constant cough\nand the production of infected sputum (sputum is a mix-\nture of mucus and pus), which may be bloody. In some\ncases, there may be wheezing and shortness of breath .\nThe constant, low-level of infection may flare, resulting\nin increased production of sputum, worsening of the\ncough, and fever. The area of the lung served by the\naffected bronchial tube may become severely infected,\nresulting in pneumonia.",
+      "bronchiectasis.\nSymptoms of bronchiectasis include constant cough\nand the production of infected sputum (sputum is a mix-\nture of mucus and pus), which may be bloody. In some\ncases, there may be wheezing and shortness of breath .\nThe constant, low-level of infection may flare, resulting\nin increased production of sputum, worsening of the\ncough, and fever. The area of the lung served by the\naffected bronchial tube may become severely infected,\nresulting in pneumonia.",
+      "bronchitis may progress to emphysema, or both diseases\nmay be present together.\nCauses and symptoms\nAcute bronchitis\nAcute bronchitis usually begins with the symptoms\nof a cold, such as a runny nose, sneezing, and dry cough.\nHowever, the cough soon becomes deep and painful.\nCoughing brings up a greenish yellow phlegm or sputum.\nThese symptoms may be accompanied by a fever of up\nto 102\u00b0F (38.8\u00b0C). Wheezing after coughing is common.\nIn uncomplicated acute bronchitis, the fever and"
+    ],
+    "expected_phrases": [
+      "pneumonia",
+      "lung"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 7,
+    "question": "What are symptoms of pneumonia?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "The provided excerpts do not include a description of pneumonia symptoms.",
+    "retrieved": [
+      "bronchiectasis.\nSymptoms of bronchiectasis include constant cough\nand the production of infected sputum (sputum is a mix-\nture of mucus and pus), which may be bloody. In some\ncases, there may be wheezing and shortness of breath .\nThe constant, low-level of infection may flare, resulting\nin increased production of sputum, worsening of the\ncough, and fever. The area of the lung served by the\naffected bronchial tube may become severely infected,\nresulting in pneumonia.",
+      "bronchiectasis.\nSymptoms of bronchiectasis include constant cough\nand the production of infected sputum (sputum is a mix-\nture of mucus and pus), which may be bloody. In some\ncases, there may be wheezing and shortness of breath .\nThe constant, low-level of infection may flare, resulting\nin increased production of sputum, worsening of the\ncough, and fever. The area of the lung served by the\naffected bronchial tube may become severely infected,\nresulting in pneumonia.",
+      "bronchitis may progress to emphysema, or both diseases\nmay be present together.\nCauses and symptoms\nAcute bronchitis\nAcute bronchitis usually begins with the symptoms\nof a cold, such as a runny nose, sneezing, and dry cough.\nHowever, the cough soon becomes deep and painful.\nCoughing brings up a greenish yellow phlegm or sputum.\nThese symptoms may be accompanied by a fever of up\nto 102\u00b0F (38.8\u00b0C). Wheezing after coughing is common.\nIn uncomplicated acute bronchitis, the fever and"
+    ],
+    "expected_phrases": [
+      "pneumonia",
+      "lung"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 8,
+    "question": "What is tuberculosis?",
+    "variant": "baseline",
+    "answer": "Tuberculosis is an infectious disease caused by the bacterium *Mycobacterium tuberculosis*. It spreads from person to person via airborne droplets. The infection can be cured with proper combination drug therapy.",
+    "retrieved": [
+      "Purpose\nTuberculosis is a disease caused by Mycobacterium\ntuberculae, a bacteria that is passed between people\nthrough the air. The disease can be cured with proper\ndrug therapy, but because the bacteria may become resis-\ntant to any single drug, combinations of antituberculosis\ndrugs are used to treat tuberculosis (TB) are normally\nrequired for effective treatment. At the start of the 20th\nCentury, tuberculosis was the most common cause of\ndeath in the United States, but was laregly eliminated",
+      "Purpose\nTuberculosis is a disease caused by Mycobacterium\ntuberculae, a bacteria that is passed between people\nthrough the air. The disease can be cured with proper\ndrug therapy, but because the bacteria may become resis-\ntant to any single drug, combinations of antituberculosis\ndrugs are used to treat tuberculosis (TB) are normally\nrequired for effective treatment. At the start of the 20th\nCentury, tuberculosis was the most common cause of\ndeath in the United States, but was laregly eliminated",
+      "treatment with this medicine begins. However, they may\ncome back if the medicine is stopped too quickly. Do not\nstop taking the medicine just because symptoms improve.\nBecause people may neglect to take their medication\nfor tuberculosis, it is common to have tuberculosis centers\ndevelop a program of Directly Observed Therapy (DOT.)\nIn these programs, patients come to the hospital or clinic,\nand take their medication in front of an observer. These"
+    ],
+    "expected_phrases": [
+      "tuberculosis",
+      "tubercle bacillus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 8,
+    "question": "What is tuberculosis?",
+    "variant": "evidence_first",
+    "answer": "Tuberculosis is a disease caused by the bacterium *Mycobacterium tuberculae* that spreads between people through the air. It can be cured with proper drug therapy, though combination regimens are needed to prevent resistance. The disease was once the leading cause of death in the United States but has been largely eliminated.",
+    "retrieved": [
+      "Purpose\nTuberculosis is a disease caused by Mycobacterium\ntuberculae, a bacteria that is passed between people\nthrough the air. The disease can be cured with proper\ndrug therapy, but because the bacteria may become resis-\ntant to any single drug, combinations of antituberculosis\ndrugs are used to treat tuberculosis (TB) are normally\nrequired for effective treatment. At the start of the 20th\nCentury, tuberculosis was the most common cause of\ndeath in the United States, but was laregly eliminated",
+      "Purpose\nTuberculosis is a disease caused by Mycobacterium\ntuberculae, a bacteria that is passed between people\nthrough the air. The disease can be cured with proper\ndrug therapy, but because the bacteria may become resis-\ntant to any single drug, combinations of antituberculosis\ndrugs are used to treat tuberculosis (TB) are normally\nrequired for effective treatment. At the start of the 20th\nCentury, tuberculosis was the most common cause of\ndeath in the United States, but was laregly eliminated",
+      "treatment with this medicine begins. However, they may\ncome back if the medicine is stopped too quickly. Do not\nstop taking the medicine just because symptoms improve.\nBecause people may neglect to take their medication\nfor tuberculosis, it is common to have tuberculosis centers\ndevelop a program of Directly Observed Therapy (DOT.)\nIn these programs, patients come to the hospital or clinic,\nand take their medication in front of an observer. These"
+    ],
+    "expected_phrases": [
+      "tuberculosis",
+      "tubercle bacillus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 8,
+    "question": "What is tuberculosis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Tuberculosis is a disease caused by the bacterium *Mycobacterium tuberculae*, which is transmitted between people through the air.",
+    "retrieved": [
+      "Purpose\nTuberculosis is a disease caused by Mycobacterium\ntuberculae, a bacteria that is passed between people\nthrough the air. The disease can be cured with proper\ndrug therapy, but because the bacteria may become resis-\ntant to any single drug, combinations of antituberculosis\ndrugs are used to treat tuberculosis (TB) are normally\nrequired for effective treatment. At the start of the 20th\nCentury, tuberculosis was the most common cause of\ndeath in the United States, but was laregly eliminated",
+      "Purpose\nTuberculosis is a disease caused by Mycobacterium\ntuberculae, a bacteria that is passed between people\nthrough the air. The disease can be cured with proper\ndrug therapy, but because the bacteria may become resis-\ntant to any single drug, combinations of antituberculosis\ndrugs are used to treat tuberculosis (TB) are normally\nrequired for effective treatment. At the start of the 20th\nCentury, tuberculosis was the most common cause of\ndeath in the United States, but was laregly eliminated",
+      "treatment with this medicine begins. However, they may\ncome back if the medicine is stopped too quickly. Do not\nstop taking the medicine just because symptoms improve.\nBecause people may neglect to take their medication\nfor tuberculosis, it is common to have tuberculosis centers\ndevelop a program of Directly Observed Therapy (DOT.)\nIn these programs, patients come to the hospital or clinic,\nand take their medication in front of an observer. These"
+    ],
+    "expected_phrases": [
+      "tuberculosis",
+      "tubercle bacillus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 9,
+    "question": "How does influenza spread?",
+    "variant": "baseline",
+    "answer": "Influenza spreads primarily through respiratory droplets expelled when an infected person coughs, sneezes, or talks, which can be inhaled by nearby people. It can also be transmitted by touching surfaces contaminated with the virus and then touching the mouth, nose, or eyes. Close contact in crowded settings accelerates its spread.",
+    "retrieved": [
+      "viruses that cause influenza (flu) or influenza-like syn-\ndromes, as well as a number of bacteria may precede the\ndevelopment of bronchiectasis. Patients who have been\ninfected with tuberculosis or the virus which causes\nAIDS (HIV or human immunodeficiency virus) also\nhave an increased chance of bronchiectasis.\nA number of pre-existing conditions may cause an\nindividual to be more susceptible than normal to infec-\ntion, with increased risk of bronchiectasis developing.",
+      "viruses that cause influenza (flu) or influenza-like syn-\ndromes, as well as a number of bacteria may precede the\ndevelopment of bronchiectasis. Patients who have been\ninfected with tuberculosis or the virus which causes\nAIDS (HIV or human immunodeficiency virus) also\nhave an increased chance of bronchiectasis.\nA number of pre-existing conditions may cause an\nindividual to be more susceptible than normal to infec-\ntion, with increased risk of bronchiectasis developing.",
+      "the virus already present. Antiviral therapy must normally\nbe initiated within 48 hours of the onset of an infection to\nprovide any benefit. Drugs used for influenza may be\nused throughout the influenza season in high risk patients,\nor within 48 hours of exposure to a known carrier. Anti-\nherpetic agents should be used at the first signs of an out-\nbreak. Anti-cytomegaloviral drugs must routinely be used\nas part of a program of secondary prophylaxis (mainte-\nGALE ENCYCLOPEDIA OF MEDICINE 2 315"
+    ],
+    "expected_phrases": [
+      "influenza",
+      "virus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 9,
+    "question": "How does influenza spread?",
+    "variant": "evidence_first",
+    "answer": "The provided excerpts do not contain information about how influenza spreads.",
+    "retrieved": [
+      "viruses that cause influenza (flu) or influenza-like syn-\ndromes, as well as a number of bacteria may precede the\ndevelopment of bronchiectasis. Patients who have been\ninfected with tuberculosis or the virus which causes\nAIDS (HIV or human immunodeficiency virus) also\nhave an increased chance of bronchiectasis.\nA number of pre-existing conditions may cause an\nindividual to be more susceptible than normal to infec-\ntion, with increased risk of bronchiectasis developing.",
+      "viruses that cause influenza (flu) or influenza-like syn-\ndromes, as well as a number of bacteria may precede the\ndevelopment of bronchiectasis. Patients who have been\ninfected with tuberculosis or the virus which causes\nAIDS (HIV or human immunodeficiency virus) also\nhave an increased chance of bronchiectasis.\nA number of pre-existing conditions may cause an\nindividual to be more susceptible than normal to infec-\ntion, with increased risk of bronchiectasis developing.",
+      "the virus already present. Antiviral therapy must normally\nbe initiated within 48 hours of the onset of an infection to\nprovide any benefit. Drugs used for influenza may be\nused throughout the influenza season in high risk patients,\nor within 48 hours of exposure to a known carrier. Anti-\nherpetic agents should be used at the first signs of an out-\nbreak. Anti-cytomegaloviral drugs must routinely be used\nas part of a program of secondary prophylaxis (mainte-\nGALE ENCYCLOPEDIA OF MEDICINE 2 315"
+    ],
+    "expected_phrases": [
+      "influenza",
+      "virus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 9,
+    "question": "How does influenza spread?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "The provided excerpts discuss viruses that cause influenza and related treatments, but they do not contain information about how influenza spreads.",
+    "retrieved": [
+      "viruses that cause influenza (flu) or influenza-like syn-\ndromes, as well as a number of bacteria may precede the\ndevelopment of bronchiectasis. Patients who have been\ninfected with tuberculosis or the virus which causes\nAIDS (HIV or human immunodeficiency virus) also\nhave an increased chance of bronchiectasis.\nA number of pre-existing conditions may cause an\nindividual to be more susceptible than normal to infec-\ntion, with increased risk of bronchiectasis developing.",
+      "viruses that cause influenza (flu) or influenza-like syn-\ndromes, as well as a number of bacteria may precede the\ndevelopment of bronchiectasis. Patients who have been\ninfected with tuberculosis or the virus which causes\nAIDS (HIV or human immunodeficiency virus) also\nhave an increased chance of bronchiectasis.\nA number of pre-existing conditions may cause an\nindividual to be more susceptible than normal to infec-\ntion, with increased risk of bronchiectasis developing.",
+      "the virus already present. Antiviral therapy must normally\nbe initiated within 48 hours of the onset of an infection to\nprovide any benefit. Drugs used for influenza may be\nused throughout the influenza season in high risk patients,\nor within 48 hours of exposure to a known carrier. Anti-\nherpetic agents should be used at the first signs of an out-\nbreak. Anti-cytomegaloviral drugs must routinely be used\nas part of a program of secondary prophylaxis (mainte-\nGALE ENCYCLOPEDIA OF MEDICINE 2 315"
+    ],
+    "expected_phrases": [
+      "influenza",
+      "virus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 10,
+    "question": "What is dehydration?",
+    "variant": "baseline",
+    "answer": "Dehydration is the loss or removal of water from the body, lowering the total fluid volume. In a medical setting it can be induced intentionally to reduce accumulated fluid in the brain and help control intracranial hypertension. The resulting decrease in water also diminishes the absorption of water\u2011soluble nutrients and can affect organ function.",
+    "retrieved": [
+      "administration of an agent that induces dehydra-\ntion. The goal of dehydration is to reduce the\namount of accumulated fluid in the brain.\nSteroid\u2014A type of drug used to reduce swelling.\nsarily prevent brain damage. Furthermore, the reduction\nin intracranial hypertension may not be sustained.\nPreparation\nInducing a barbiturate coma is usually kept in\nreserve for cases in which conventional treatments for\ncontrolling intracranial hypertension have failed.",
+      "administration of an agent that induces dehydra-\ntion. The goal of dehydration is to reduce the\namount of accumulated fluid in the brain.\nSteroid\u2014A type of drug used to reduce swelling.\nsarily prevent brain damage. Furthermore, the reduction\nin intracranial hypertension may not be sustained.\nPreparation\nInducing a barbiturate coma is usually kept in\nreserve for cases in which conventional treatments for\ncontrolling intracranial hypertension have failed.",
+      "\u2022 The amount of water in the body decreases, which there-\nfore decreases the absorption of water-soluble nutrients.\nAlso, there is less saliva and other lubricating fluids.\n\u2022 The liver and the kidneys cannot function as efficiently,\nthus affecting the elimination of wastes.\n\u2022 A decrease in the ease of digestion, with a decrease in\nstomach acid production.\n\u2022 A loss of muscle strength and coordination, with an\naccompanying loss of mobility, agility, and flexibility."
+    ],
+    "expected_phrases": [
+      "dehydration",
+      "fluid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 10,
+    "question": "What is dehydration?",
+    "variant": "evidence_first",
+    "answer": "Dehydration is the reduction of water in the body, decreasing the amount of accumulated fluid (such as in the brain). This loss of water lowers the absorption of water\u2011soluble nutrients and can affect bodily functions.",
+    "retrieved": [
+      "administration of an agent that induces dehydra-\ntion. The goal of dehydration is to reduce the\namount of accumulated fluid in the brain.\nSteroid\u2014A type of drug used to reduce swelling.\nsarily prevent brain damage. Furthermore, the reduction\nin intracranial hypertension may not be sustained.\nPreparation\nInducing a barbiturate coma is usually kept in\nreserve for cases in which conventional treatments for\ncontrolling intracranial hypertension have failed.",
+      "administration of an agent that induces dehydra-\ntion. The goal of dehydration is to reduce the\namount of accumulated fluid in the brain.\nSteroid\u2014A type of drug used to reduce swelling.\nsarily prevent brain damage. Furthermore, the reduction\nin intracranial hypertension may not be sustained.\nPreparation\nInducing a barbiturate coma is usually kept in\nreserve for cases in which conventional treatments for\ncontrolling intracranial hypertension have failed.",
+      "\u2022 The amount of water in the body decreases, which there-\nfore decreases the absorption of water-soluble nutrients.\nAlso, there is less saliva and other lubricating fluids.\n\u2022 The liver and the kidneys cannot function as efficiently,\nthus affecting the elimination of wastes.\n\u2022 A decrease in the ease of digestion, with a decrease in\nstomach acid production.\n\u2022 A loss of muscle strength and coordination, with an\naccompanying loss of mobility, agility, and flexibility."
+    ],
+    "expected_phrases": [
+      "dehydration",
+      "fluid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 10,
+    "question": "What is dehydration?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Dehydration is a condition in which the amount of water in the body decreases, leading to reduced fluid accumulation (e.g., in the brain) and decreased absorption of water\u2011soluble nutrients. It also results in less saliva and other lubricating fluids. The excerpt describes dehydration as a purposeful reduction of bodily water to lower intracranial fluid volume.",
+    "retrieved": [
+      "administration of an agent that induces dehydra-\ntion. The goal of dehydration is to reduce the\namount of accumulated fluid in the brain.\nSteroid\u2014A type of drug used to reduce swelling.\nsarily prevent brain damage. Furthermore, the reduction\nin intracranial hypertension may not be sustained.\nPreparation\nInducing a barbiturate coma is usually kept in\nreserve for cases in which conventional treatments for\ncontrolling intracranial hypertension have failed.",
+      "administration of an agent that induces dehydra-\ntion. The goal of dehydration is to reduce the\namount of accumulated fluid in the brain.\nSteroid\u2014A type of drug used to reduce swelling.\nsarily prevent brain damage. Furthermore, the reduction\nin intracranial hypertension may not be sustained.\nPreparation\nInducing a barbiturate coma is usually kept in\nreserve for cases in which conventional treatments for\ncontrolling intracranial hypertension have failed.",
+      "\u2022 The amount of water in the body decreases, which there-\nfore decreases the absorption of water-soluble nutrients.\nAlso, there is less saliva and other lubricating fluids.\n\u2022 The liver and the kidneys cannot function as efficiently,\nthus affecting the elimination of wastes.\n\u2022 A decrease in the ease of digestion, with a decrease in\nstomach acid production.\n\u2022 A loss of muscle strength and coordination, with an\naccompanying loss of mobility, agility, and flexibility."
+    ],
+    "expected_phrases": [
+      "dehydration",
+      "fluid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 11,
+    "question": "What is a migraine?",
+    "variant": "baseline",
+    "answer": "A migraine is a neurological headache characterized by throbbing pain, usually on one side of the head, often accompanied by nausea, vomiting, dizziness, and heightened sensitivity to light and sound. Attacks can last from several hours to more than a day and may occur multiple times per week. Many people experience warning signs called an aura\u2014such as visual disturbances, tingling, or restlessness\u2014before the pain begins.",
+    "retrieved": [
+      "Purpose\nMigraine headaches usually cause a throbbing pain\non one side of the head. Nausea, vomiting, dizziness ,\nincreased sensitivity to light and sound, and other symp-\ntoms may accompany the pain. The attacks may last for\nseveral hours or for a day or more and may come as often\nas several times a week. Some people who get migraine\nheadaches have warning signals before the headaches\nbegin, such as restlessness, tingling in an arm or leg, or",
+      "Purpose\nMigraine headaches usually cause a throbbing pain\non one side of the head. Nausea, vomiting, dizziness ,\nincreased sensitivity to light and sound, and other symp-\ntoms may accompany the pain. The attacks may last for\nseveral hours or for a day or more and may come as often\nas several times a week. Some people who get migraine\nheadaches have warning signals before the headaches\nbegin, such as restlessness, tingling in an arm or leg, or",
+      "seeing patterns of flashing lights. This set of signals is\ncalled an aura. The antimigraine drugs discussed in this\nsection are meant to be taken as soon as the pain begins,\nto relieve the pain and other symptoms. Other types of\ndrugs, such as antiseizure medicines, antidepressants,\ncalcium channel blockers and beta blockers, are some-\ntimes prescribed to prevent attacks in people with very\nsevere or frequent migraines.\nDescription\nMigraine is thought to be caused by electrical and"
+    ],
+    "expected_phrases": [
+      "migraine",
+      "headache"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 11,
+    "question": "What is a migraine?",
+    "variant": "evidence_first",
+    "answer": "A migraine is a headache disorder that typically produces throbbing pain on one side of the head and is often accompanied by nausea, vomiting, dizziness, and heightened sensitivity to light and sound. Many sufferers experience warning signs\u2014such as restlessness, tingling in an arm or leg, or flashing\u2011light visual patterns (an aura)\u2014before the pain begins. The attacks can last several hours to a day or more and may occur multiple times each week.",
+    "retrieved": [
+      "Purpose\nMigraine headaches usually cause a throbbing pain\non one side of the head. Nausea, vomiting, dizziness ,\nincreased sensitivity to light and sound, and other symp-\ntoms may accompany the pain. The attacks may last for\nseveral hours or for a day or more and may come as often\nas several times a week. Some people who get migraine\nheadaches have warning signals before the headaches\nbegin, such as restlessness, tingling in an arm or leg, or",
+      "Purpose\nMigraine headaches usually cause a throbbing pain\non one side of the head. Nausea, vomiting, dizziness ,\nincreased sensitivity to light and sound, and other symp-\ntoms may accompany the pain. The attacks may last for\nseveral hours or for a day or more and may come as often\nas several times a week. Some people who get migraine\nheadaches have warning signals before the headaches\nbegin, such as restlessness, tingling in an arm or leg, or",
+      "seeing patterns of flashing lights. This set of signals is\ncalled an aura. The antimigraine drugs discussed in this\nsection are meant to be taken as soon as the pain begins,\nto relieve the pain and other symptoms. Other types of\ndrugs, such as antiseizure medicines, antidepressants,\ncalcium channel blockers and beta blockers, are some-\ntimes prescribed to prevent attacks in people with very\nsevere or frequent migraines.\nDescription\nMigraine is thought to be caused by electrical and"
+    ],
+    "expected_phrases": [
+      "migraine",
+      "headache"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 11,
+    "question": "What is a migraine?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "A migraine is a type of headache that typically causes throbbing pain on one side of the head and is often accompanied by nausea, vomiting, dizziness, and increased sensitivity to light and sound. Attacks can last from several hours to a day or more and may occur several times a week. Some people experience warning signals called an aura\u2014such as restlessness, tingling in an arm or leg, or flashing\u2011light patterns\u2014before the pain begins.",
+    "retrieved": [
+      "Purpose\nMigraine headaches usually cause a throbbing pain\non one side of the head. Nausea, vomiting, dizziness ,\nincreased sensitivity to light and sound, and other symp-\ntoms may accompany the pain. The attacks may last for\nseveral hours or for a day or more and may come as often\nas several times a week. Some people who get migraine\nheadaches have warning signals before the headaches\nbegin, such as restlessness, tingling in an arm or leg, or",
+      "Purpose\nMigraine headaches usually cause a throbbing pain\non one side of the head. Nausea, vomiting, dizziness ,\nincreased sensitivity to light and sound, and other symp-\ntoms may accompany the pain. The attacks may last for\nseveral hours or for a day or more and may come as often\nas several times a week. Some people who get migraine\nheadaches have warning signals before the headaches\nbegin, such as restlessness, tingling in an arm or leg, or",
+      "seeing patterns of flashing lights. This set of signals is\ncalled an aura. The antimigraine drugs discussed in this\nsection are meant to be taken as soon as the pain begins,\nto relieve the pain and other symptoms. Other types of\ndrugs, such as antiseizure medicines, antidepressants,\ncalcium channel blockers and beta blockers, are some-\ntimes prescribed to prevent attacks in people with very\nsevere or frequent migraines.\nDescription\nMigraine is thought to be caused by electrical and"
+    ],
+    "expected_phrases": [
+      "migraine",
+      "headache"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 12,
+    "question": "What is epilepsy?",
+    "variant": "baseline",
+    "answer": "Epilepsy is a collection of symptoms rather than a single disease, characterized by an imbalance in the brain\u2019s electrical activity. This imbalance leads to seizures that can affect part or all of the body and may or may not involve loss of consciousness. The underlying causes can vary, including head injury, tumors, infections, metabolic problems, or sometimes remain unknown.",
+    "retrieved": [
+      "Purpose\nAnticonvulsant drugs are used to control seizures in\npeople with epilepsy. Epilepsy is not a single disease\u2014it\nis a set of symptoms that may have different causes in\ndifferent people. The common thread is an imbalance in\nthe brain\u2019s electrical activity. This imbalance causes\nseizures that may affect part or all of the body and may\nor may not cause a loss of consciousness. Anticonvulsant\ndrugs act on the brain to reduce the frequency and severi-\nty of seizures.",
+      "Purpose\nAnticonvulsant drugs are used to control seizures in\npeople with epilepsy. Epilepsy is not a single disease\u2014it\nis a set of symptoms that may have different causes in\ndifferent people. The common thread is an imbalance in\nthe brain\u2019s electrical activity. This imbalance causes\nseizures that may affect part or all of the body and may\nor may not cause a loss of consciousness. Anticonvulsant\ndrugs act on the brain to reduce the frequency and severi-\nty of seizures.",
+      "ty of seizures.\nSome cases of epilepsy are brought on by head\ninjuries, brain tumors or infections, or metabolic prob-\nlems such as low blood sugar. But in some people with\nepilepsy, the cause is not clear.\nAnticonvulsant drugs are an important part of the\ntreatment program for epilepsy. Different kinds of drugs\nmay be prescribed for different types of seizures. In addi-\ntion to taking medicine, patients with epilepsy should get\nenough rest, avoid stress, and practice good health habits."
+    ],
+    "expected_phrases": [
+      "epilepsy",
+      "seizure"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 12,
+    "question": "What is epilepsy?",
+    "variant": "evidence_first",
+    "answer": "Epilepsy is a set of symptoms rather than a single disease, characterized by an imbalance in the brain\u2019s electrical activity that leads to seizures. These seizures can affect part or all of the body and may or may not cause loss of consciousness. The condition can arise from various causes such as head injuries, brain tumors, infections, metabolic problems, or sometimes an unknown origin.",
+    "retrieved": [
+      "Purpose\nAnticonvulsant drugs are used to control seizures in\npeople with epilepsy. Epilepsy is not a single disease\u2014it\nis a set of symptoms that may have different causes in\ndifferent people. The common thread is an imbalance in\nthe brain\u2019s electrical activity. This imbalance causes\nseizures that may affect part or all of the body and may\nor may not cause a loss of consciousness. Anticonvulsant\ndrugs act on the brain to reduce the frequency and severi-\nty of seizures.",
+      "Purpose\nAnticonvulsant drugs are used to control seizures in\npeople with epilepsy. Epilepsy is not a single disease\u2014it\nis a set of symptoms that may have different causes in\ndifferent people. The common thread is an imbalance in\nthe brain\u2019s electrical activity. This imbalance causes\nseizures that may affect part or all of the body and may\nor may not cause a loss of consciousness. Anticonvulsant\ndrugs act on the brain to reduce the frequency and severi-\nty of seizures.",
+      "ty of seizures.\nSome cases of epilepsy are brought on by head\ninjuries, brain tumors or infections, or metabolic prob-\nlems such as low blood sugar. But in some people with\nepilepsy, the cause is not clear.\nAnticonvulsant drugs are an important part of the\ntreatment program for epilepsy. Different kinds of drugs\nmay be prescribed for different types of seizures. In addi-\ntion to taking medicine, patients with epilepsy should get\nenough rest, avoid stress, and practice good health habits."
+    ],
+    "expected_phrases": [
+      "epilepsy",
+      "seizure"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 12,
+    "question": "What is epilepsy?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Epilepsy is a collection of symptoms\u2014not a single disease\u2014characterized by an imbalance in the brain\u2019s electrical activity that leads to seizures, which may affect part or all of the body and may or may not involve loss of consciousness. The condition can be triggered by factors such as head injuries, brain tumors, infections, metabolic problems (e.g., low blood sugar), or may have no clear cause.",
+    "retrieved": [
+      "Purpose\nAnticonvulsant drugs are used to control seizures in\npeople with epilepsy. Epilepsy is not a single disease\u2014it\nis a set of symptoms that may have different causes in\ndifferent people. The common thread is an imbalance in\nthe brain\u2019s electrical activity. This imbalance causes\nseizures that may affect part or all of the body and may\nor may not cause a loss of consciousness. Anticonvulsant\ndrugs act on the brain to reduce the frequency and severi-\nty of seizures.",
+      "Purpose\nAnticonvulsant drugs are used to control seizures in\npeople with epilepsy. Epilepsy is not a single disease\u2014it\nis a set of symptoms that may have different causes in\ndifferent people. The common thread is an imbalance in\nthe brain\u2019s electrical activity. This imbalance causes\nseizures that may affect part or all of the body and may\nor may not cause a loss of consciousness. Anticonvulsant\ndrugs act on the brain to reduce the frequency and severi-\nty of seizures.",
+      "ty of seizures.\nSome cases of epilepsy are brought on by head\ninjuries, brain tumors or infections, or metabolic prob-\nlems such as low blood sugar. But in some people with\nepilepsy, the cause is not clear.\nAnticonvulsant drugs are an important part of the\ntreatment program for epilepsy. Different kinds of drugs\nmay be prescribed for different types of seizures. In addi-\ntion to taking medicine, patients with epilepsy should get\nenough rest, avoid stress, and practice good health habits."
+    ],
+    "expected_phrases": [
+      "epilepsy",
+      "seizure"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 13,
+    "question": "What is a stroke?",
+    "variant": "baseline",
+    "answer": "A stroke occurs when an embolus (or clot) blocks blood flow to part of the brain, depriving the tissue of oxygen and nutrients. This interruption can cause sudden neurological symptoms such as confusion, weakness, or loss of consciousness. If untreated, it can lead to permanent brain damage or death of the affected tissue.",
+    "retrieved": [
+      "and even death of the tissues involved.\nEmboli can affect any part of the body. The most\ncommon sites are the legs and feet. When the brain is\naffected, it is called a stroke. When the heart is involved,\nit is called a heart attack or myocardial infarction (MI).\nCauses and symptoms\nA common cause of embolus is when an artery\nwhose lining has become thickened or damaged, usually\nwith age, allows cholesterol to build up more easily than\nnormal on the artery wall. If some of the cholesterol",
+      "and even death of the tissues involved.\nEmboli can affect any part of the body. The most\ncommon sites are the legs and feet. When the brain is\naffected, it is called a stroke. When the heart is involved,\nit is called a heart attack or myocardial infarction (MI).\nCauses and symptoms\nA common cause of embolus is when an artery\nwhose lining has become thickened or damaged, usually\nwith age, allows cholesterol to build up more easily than\nnormal on the artery wall. If some of the cholesterol",
+      "may be the trigger. (A transient ischemic attack ,\nsometimes called \u201ca small stroke,\u201d occurs when a\nblockage in an artery temporarily blocks off blood sup-\nply to part of the brain.) A victim experiences sudden\nconfusion and forgetfulness. Attacks can be as brief as\n30-60 minutes or can last up to 24 hours. In severe\nattacks, a person is completely disoriented and may\nexperience retrograde amnesia that extends back sever-\nal years. While very frightening for the patient, tran-"
+    ],
+    "expected_phrases": [
+      "stroke",
+      "cerebral"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 13,
+    "question": "What is a stroke?",
+    "variant": "evidence_first",
+    "answer": "A stroke occurs when an embolus blocks blood flow to the brain. In this situation, the brain is the affected organ, and the condition is termed a stroke.",
+    "retrieved": [
+      "and even death of the tissues involved.\nEmboli can affect any part of the body. The most\ncommon sites are the legs and feet. When the brain is\naffected, it is called a stroke. When the heart is involved,\nit is called a heart attack or myocardial infarction (MI).\nCauses and symptoms\nA common cause of embolus is when an artery\nwhose lining has become thickened or damaged, usually\nwith age, allows cholesterol to build up more easily than\nnormal on the artery wall. If some of the cholesterol",
+      "and even death of the tissues involved.\nEmboli can affect any part of the body. The most\ncommon sites are the legs and feet. When the brain is\naffected, it is called a stroke. When the heart is involved,\nit is called a heart attack or myocardial infarction (MI).\nCauses and symptoms\nA common cause of embolus is when an artery\nwhose lining has become thickened or damaged, usually\nwith age, allows cholesterol to build up more easily than\nnormal on the artery wall. If some of the cholesterol",
+      "may be the trigger. (A transient ischemic attack ,\nsometimes called \u201ca small stroke,\u201d occurs when a\nblockage in an artery temporarily blocks off blood sup-\nply to part of the brain.) A victim experiences sudden\nconfusion and forgetfulness. Attacks can be as brief as\n30-60 minutes or can last up to 24 hours. In severe\nattacks, a person is completely disoriented and may\nexperience retrograde amnesia that extends back sever-\nal years. While very frightening for the patient, tran-"
+    ],
+    "expected_phrases": [
+      "stroke",
+      "cerebral"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 13,
+    "question": "What is a stroke?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "A stroke is the condition that occurs when an embolus blocks blood flow to the brain. In other words, when an embolus affects the brain, it is called a stroke.",
+    "retrieved": [
+      "and even death of the tissues involved.\nEmboli can affect any part of the body. The most\ncommon sites are the legs and feet. When the brain is\naffected, it is called a stroke. When the heart is involved,\nit is called a heart attack or myocardial infarction (MI).\nCauses and symptoms\nA common cause of embolus is when an artery\nwhose lining has become thickened or damaged, usually\nwith age, allows cholesterol to build up more easily than\nnormal on the artery wall. If some of the cholesterol",
+      "and even death of the tissues involved.\nEmboli can affect any part of the body. The most\ncommon sites are the legs and feet. When the brain is\naffected, it is called a stroke. When the heart is involved,\nit is called a heart attack or myocardial infarction (MI).\nCauses and symptoms\nA common cause of embolus is when an artery\nwhose lining has become thickened or damaged, usually\nwith age, allows cholesterol to build up more easily than\nnormal on the artery wall. If some of the cholesterol",
+      "may be the trigger. (A transient ischemic attack ,\nsometimes called \u201ca small stroke,\u201d occurs when a\nblockage in an artery temporarily blocks off blood sup-\nply to part of the brain.) A victim experiences sudden\nconfusion and forgetfulness. Attacks can be as brief as\n30-60 minutes or can last up to 24 hours. In severe\nattacks, a person is completely disoriented and may\nexperience retrograde amnesia that extends back sever-\nal years. While very frightening for the patient, tran-"
+    ],
+    "expected_phrases": [
+      "stroke",
+      "cerebral"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 14,
+    "question": "What is coronary artery disease?",
+    "variant": "baseline",
+    "answer": "Coronary artery disease (CAD) is a condition in which the coronary arteries\u2014the vessels that supply blood to the heart\u2014become narrowed or blocked, typically by a buildup of atherosclerotic plaque. This narrowing reduces oxygen\u2011rich blood flow to the heart muscle, leading to symptoms such as angina (chest pain) and increasing the risk of heart attacks. CAD is the underlying problem that must be addressed to prevent further cardiac complications.",
+    "retrieved": [
+      "against an artery wall.\nCoronary arteries \u2014The two main arteries that\nprovide blood to the heart. The coronary arteries\nsurround the heart like a crown, coming out of the\naorta, arching down over the top of the heart, and\ndividing into two branches. These are the arteries\nwhere coronary artery disease occurs.\nHematoma\u2014A localized collection of blood, usu-\nally clotted, due to a break in the wall of blood\nvessel.\nORGANIZATIONS\nAmerican Heart Association. 7320 Greenville Ave. Dallas, TX",
+      "against an artery wall.\nCoronary arteries \u2014The two main arteries that\nprovide blood to the heart. The coronary arteries\nsurround the heart like a crown, coming out of the\naorta, arching down over the top of the heart, and\ndividing into two branches. These are the arteries\nwhere coronary artery disease occurs.\nHematoma\u2014A localized collection of blood, usu-\nally clotted, due to a break in the wall of blood\nvessel.\nORGANIZATIONS\nAmerican Heart Association. 7320 Greenville Ave. Dallas, TX",
+      "adjust their lives to minimize episodes of angina, by tak-\ning necessary precautions and using medications if rec-\nommended and necessary. Coronary artery disease is\nthe underlying problem that should be addressed.\nResources\nBOOKS\nBanasik, Jacquelyn L. \u201cAlterations in Cardiac Function.\u201d In\nPerspectives on Pathophysiology, ed. Lee-Ellen C. Cop-\nstead. Philadelphia: W. B. Saunders Co., 1994.\nChandrasoma, Parakrama, and Clive R. Taylor. Concise Pathol-"
+    ],
+    "expected_phrases": [
+      "coronary",
+      "artery"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 14,
+    "question": "What is coronary artery disease?",
+    "variant": "evidence_first",
+    "answer": "Coronary artery disease is a condition that affects the coronary arteries\u2014the two main vessels that supply blood to the heart. It is the underlying problem that must be addressed when patients experience angina.",
+    "retrieved": [
+      "against an artery wall.\nCoronary arteries \u2014The two main arteries that\nprovide blood to the heart. The coronary arteries\nsurround the heart like a crown, coming out of the\naorta, arching down over the top of the heart, and\ndividing into two branches. These are the arteries\nwhere coronary artery disease occurs.\nHematoma\u2014A localized collection of blood, usu-\nally clotted, due to a break in the wall of blood\nvessel.\nORGANIZATIONS\nAmerican Heart Association. 7320 Greenville Ave. Dallas, TX",
+      "against an artery wall.\nCoronary arteries \u2014The two main arteries that\nprovide blood to the heart. The coronary arteries\nsurround the heart like a crown, coming out of the\naorta, arching down over the top of the heart, and\ndividing into two branches. These are the arteries\nwhere coronary artery disease occurs.\nHematoma\u2014A localized collection of blood, usu-\nally clotted, due to a break in the wall of blood\nvessel.\nORGANIZATIONS\nAmerican Heart Association. 7320 Greenville Ave. Dallas, TX",
+      "adjust their lives to minimize episodes of angina, by tak-\ning necessary precautions and using medications if rec-\nommended and necessary. Coronary artery disease is\nthe underlying problem that should be addressed.\nResources\nBOOKS\nBanasik, Jacquelyn L. \u201cAlterations in Cardiac Function.\u201d In\nPerspectives on Pathophysiology, ed. Lee-Ellen C. Cop-\nstead. Philadelphia: W. B. Saunders Co., 1994.\nChandrasoma, Parakrama, and Clive R. Taylor. Concise Pathol-"
+    ],
+    "expected_phrases": [
+      "coronary",
+      "artery"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 14,
+    "question": "What is coronary artery disease?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Coronary artery disease is a condition that affects the coronary arteries\u2014the two main vessels that supply blood to the heart. It is the underlying problem that leads to episodes such as angina and requires management. (The excerpts do not provide a more detailed definition.)",
+    "retrieved": [
+      "against an artery wall.\nCoronary arteries \u2014The two main arteries that\nprovide blood to the heart. The coronary arteries\nsurround the heart like a crown, coming out of the\naorta, arching down over the top of the heart, and\ndividing into two branches. These are the arteries\nwhere coronary artery disease occurs.\nHematoma\u2014A localized collection of blood, usu-\nally clotted, due to a break in the wall of blood\nvessel.\nORGANIZATIONS\nAmerican Heart Association. 7320 Greenville Ave. Dallas, TX",
+      "against an artery wall.\nCoronary arteries \u2014The two main arteries that\nprovide blood to the heart. The coronary arteries\nsurround the heart like a crown, coming out of the\naorta, arching down over the top of the heart, and\ndividing into two branches. These are the arteries\nwhere coronary artery disease occurs.\nHematoma\u2014A localized collection of blood, usu-\nally clotted, due to a break in the wall of blood\nvessel.\nORGANIZATIONS\nAmerican Heart Association. 7320 Greenville Ave. Dallas, TX",
+      "adjust their lives to minimize episodes of angina, by tak-\ning necessary precautions and using medications if rec-\nommended and necessary. Coronary artery disease is\nthe underlying problem that should be addressed.\nResources\nBOOKS\nBanasik, Jacquelyn L. \u201cAlterations in Cardiac Function.\u201d In\nPerspectives on Pathophysiology, ed. Lee-Ellen C. Cop-\nstead. Philadelphia: W. B. Saunders Co., 1994.\nChandrasoma, Parakrama, and Clive R. Taylor. Concise Pathol-"
+    ],
+    "expected_phrases": [
+      "coronary",
+      "artery"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 15,
+    "question": "What is heart failure?",
+    "variant": "baseline",
+    "answer": "I don\u2019t know.",
+    "retrieved": [
+      "heart, which pumps blood to the aorta.\nMurmur\u2014An abnormal heart sound that can\nreflect a valve dysfunction.\nRheumatic fever\u2014A bacterial infection that often\ncauses heart inflammation.\nPulmonary valve\u2014The valve located between the\npulmonary artery and the right ventricle, which\nbrings blood to the lungs.\nease is curable. Patients suffering mild stenosis can usu-\nally lead a normal life; a minority of the patients progress\nto severe disease. Anyone with moderate stenosis should",
+      "heart, which pumps blood to the aorta.\nMurmur\u2014An abnormal heart sound that can\nreflect a valve dysfunction.\nRheumatic fever\u2014A bacterial infection that often\ncauses heart inflammation.\nPulmonary valve\u2014The valve located between the\npulmonary artery and the right ventricle, which\nbrings blood to the lungs.\nease is curable. Patients suffering mild stenosis can usu-\nally lead a normal life; a minority of the patients progress\nto severe disease. Anyone with moderate stenosis should",
+      "attacks a person\u2019s own heart muscle, or myocardi-\num.\nAutoantibody\u2014An antibody that attacks the body\u2019s\nown cells or tissues.\nMyocardial infarction\u2014A block in the blood sup-\nply to the heart, resulting in what is commonly\ncalled a heart attack.\nMyocardium \u2014The muscular middle layer of the\nheart.\nTiter\u2014A dilution of a substance with an exact\nknown amount of fluid. For example, one part of\nserum diluted with four parts of saline is a titer\nof 1:4."
+    ],
+    "expected_phrases": [
+      "heart failure",
+      "cardiac"
+    ],
+    "retrieval_hit_at_3": false,
+    "grounding_proxy": false
+  },
+  {
+    "id": 15,
+    "question": "What is heart failure?",
+    "variant": "evidence_first",
+    "answer": "The provided excerpts do not contain a definition or description of heart failure.",
+    "retrieved": [
+      "heart, which pumps blood to the aorta.\nMurmur\u2014An abnormal heart sound that can\nreflect a valve dysfunction.\nRheumatic fever\u2014A bacterial infection that often\ncauses heart inflammation.\nPulmonary valve\u2014The valve located between the\npulmonary artery and the right ventricle, which\nbrings blood to the lungs.\nease is curable. Patients suffering mild stenosis can usu-\nally lead a normal life; a minority of the patients progress\nto severe disease. Anyone with moderate stenosis should",
+      "heart, which pumps blood to the aorta.\nMurmur\u2014An abnormal heart sound that can\nreflect a valve dysfunction.\nRheumatic fever\u2014A bacterial infection that often\ncauses heart inflammation.\nPulmonary valve\u2014The valve located between the\npulmonary artery and the right ventricle, which\nbrings blood to the lungs.\nease is curable. Patients suffering mild stenosis can usu-\nally lead a normal life; a minority of the patients progress\nto severe disease. Anyone with moderate stenosis should",
+      "attacks a person\u2019s own heart muscle, or myocardi-\num.\nAutoantibody\u2014An antibody that attacks the body\u2019s\nown cells or tissues.\nMyocardial infarction\u2014A block in the blood sup-\nply to the heart, resulting in what is commonly\ncalled a heart attack.\nMyocardium \u2014The muscular middle layer of the\nheart.\nTiter\u2014A dilution of a substance with an exact\nknown amount of fluid. For example, one part of\nserum diluted with four parts of saline is a titer\nof 1:4."
+    ],
+    "expected_phrases": [
+      "heart failure",
+      "cardiac"
+    ],
+    "retrieval_hit_at_3": false,
+    "grounding_proxy": false
+  },
+  {
+    "id": 15,
+    "question": "What is heart failure?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "The provided excerpts do not contain a definition or description of heart failure. Therefore, I cannot answer the question based on the given information.",
+    "retrieved": [
+      "heart, which pumps blood to the aorta.\nMurmur\u2014An abnormal heart sound that can\nreflect a valve dysfunction.\nRheumatic fever\u2014A bacterial infection that often\ncauses heart inflammation.\nPulmonary valve\u2014The valve located between the\npulmonary artery and the right ventricle, which\nbrings blood to the lungs.\nease is curable. Patients suffering mild stenosis can usu-\nally lead a normal life; a minority of the patients progress\nto severe disease. Anyone with moderate stenosis should",
+      "heart, which pumps blood to the aorta.\nMurmur\u2014An abnormal heart sound that can\nreflect a valve dysfunction.\nRheumatic fever\u2014A bacterial infection that often\ncauses heart inflammation.\nPulmonary valve\u2014The valve located between the\npulmonary artery and the right ventricle, which\nbrings blood to the lungs.\nease is curable. Patients suffering mild stenosis can usu-\nally lead a normal life; a minority of the patients progress\nto severe disease. Anyone with moderate stenosis should",
+      "attacks a person\u2019s own heart muscle, or myocardi-\num.\nAutoantibody\u2014An antibody that attacks the body\u2019s\nown cells or tissues.\nMyocardial infarction\u2014A block in the blood sup-\nply to the heart, resulting in what is commonly\ncalled a heart attack.\nMyocardium \u2014The muscular middle layer of the\nheart.\nTiter\u2014A dilution of a substance with an exact\nknown amount of fluid. For example, one part of\nserum diluted with four parts of saline is a titer\nof 1:4."
+    ],
+    "expected_phrases": [
+      "heart failure",
+      "cardiac"
+    ],
+    "retrieval_hit_at_3": false,
+    "grounding_proxy": false
+  },
+  {
+    "id": 16,
+    "question": "What is hepatitis?",
+    "variant": "baseline",
+    "answer": "Hepatitis is inflammation of the liver caused by infectious or toxic agents. It typically presents with jaundice, fever, an enlarged liver, and abdominal pain. The condition can be acute or progress to chronic disease.",
+    "retrieved": [
+      "tissue that is used to construct a three-dimensional\nimage of that structure\nCreutzfeld-Jakob disease \u2014A rare, often fatal dis-\nease of the brain, characterized by gradual demen-\ntia and loss of muscle control that occurs most\noften in middle age and is caused by a slow virus.\nHepatitis \u2014Inflammation of the liver, caused by\ninfectious or toxic agents and characterized by\njaundice, fever, liver enlargement, and abdominal\npain.\nMagnetic resonance imaging (MRI)\u2014A diagnostic",
+      "tissue that is used to construct a three-dimensional\nimage of that structure\nCreutzfeld-Jakob disease \u2014A rare, often fatal dis-\nease of the brain, characterized by gradual demen-\ntia and loss of muscle control that occurs most\noften in middle age and is caused by a slow virus.\nHepatitis \u2014Inflammation of the liver, caused by\ninfectious or toxic agents and characterized by\njaundice, fever, liver enlargement, and abdominal\npain.\nMagnetic resonance imaging (MRI)\u2014A diagnostic",
+      "centa, and intestine.\nCholestatis\u2014Stoppage or suppression of the flow\nof bile.\nEnzyme\u2014A substance needed to trigger specific\nchemical reactions.\nHepatocellular\u2014Of or pertaining to liver cells.\nHepatocyte\u2014A liver cell.\nIsoenzyme\u2014A variation of an enzyme.\nAllergic alveolitis see Hypersensitivity\npneumonitis\nAllergic bronchopulmonary\naspergillosis\nDefinition\nAllergic bronchopulmonary aspergillosis, or ABPA,\nis one of four major types of infections in humans caused"
+    ],
+    "expected_phrases": [
+      "hepatitis",
+      "liver"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 16,
+    "question": "What is hepatitis?",
+    "variant": "evidence_first",
+    "answer": "Hepatitis is inflammation of the liver caused by infectious or toxic agents, and it is characterized by jaundice, fever, liver enlargement, and abdominal pain.",
+    "retrieved": [
+      "tissue that is used to construct a three-dimensional\nimage of that structure\nCreutzfeld-Jakob disease \u2014A rare, often fatal dis-\nease of the brain, characterized by gradual demen-\ntia and loss of muscle control that occurs most\noften in middle age and is caused by a slow virus.\nHepatitis \u2014Inflammation of the liver, caused by\ninfectious or toxic agents and characterized by\njaundice, fever, liver enlargement, and abdominal\npain.\nMagnetic resonance imaging (MRI)\u2014A diagnostic",
+      "tissue that is used to construct a three-dimensional\nimage of that structure\nCreutzfeld-Jakob disease \u2014A rare, often fatal dis-\nease of the brain, characterized by gradual demen-\ntia and loss of muscle control that occurs most\noften in middle age and is caused by a slow virus.\nHepatitis \u2014Inflammation of the liver, caused by\ninfectious or toxic agents and characterized by\njaundice, fever, liver enlargement, and abdominal\npain.\nMagnetic resonance imaging (MRI)\u2014A diagnostic",
+      "centa, and intestine.\nCholestatis\u2014Stoppage or suppression of the flow\nof bile.\nEnzyme\u2014A substance needed to trigger specific\nchemical reactions.\nHepatocellular\u2014Of or pertaining to liver cells.\nHepatocyte\u2014A liver cell.\nIsoenzyme\u2014A variation of an enzyme.\nAllergic alveolitis see Hypersensitivity\npneumonitis\nAllergic bronchopulmonary\naspergillosis\nDefinition\nAllergic bronchopulmonary aspergillosis, or ABPA,\nis one of four major types of infections in humans caused"
+    ],
+    "expected_phrases": [
+      "hepatitis",
+      "liver"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 16,
+    "question": "What is hepatitis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Hepatitis is inflammation of the liver that results from infectious or toxic agents and is characterized by jaundice, fever, liver enlargement, and abdominal pain.",
+    "retrieved": [
+      "tissue that is used to construct a three-dimensional\nimage of that structure\nCreutzfeld-Jakob disease \u2014A rare, often fatal dis-\nease of the brain, characterized by gradual demen-\ntia and loss of muscle control that occurs most\noften in middle age and is caused by a slow virus.\nHepatitis \u2014Inflammation of the liver, caused by\ninfectious or toxic agents and characterized by\njaundice, fever, liver enlargement, and abdominal\npain.\nMagnetic resonance imaging (MRI)\u2014A diagnostic",
+      "tissue that is used to construct a three-dimensional\nimage of that structure\nCreutzfeld-Jakob disease \u2014A rare, often fatal dis-\nease of the brain, characterized by gradual demen-\ntia and loss of muscle control that occurs most\noften in middle age and is caused by a slow virus.\nHepatitis \u2014Inflammation of the liver, caused by\ninfectious or toxic agents and characterized by\njaundice, fever, liver enlargement, and abdominal\npain.\nMagnetic resonance imaging (MRI)\u2014A diagnostic",
+      "centa, and intestine.\nCholestatis\u2014Stoppage or suppression of the flow\nof bile.\nEnzyme\u2014A substance needed to trigger specific\nchemical reactions.\nHepatocellular\u2014Of or pertaining to liver cells.\nHepatocyte\u2014A liver cell.\nIsoenzyme\u2014A variation of an enzyme.\nAllergic alveolitis see Hypersensitivity\npneumonitis\nAllergic bronchopulmonary\naspergillosis\nDefinition\nAllergic bronchopulmonary aspergillosis, or ABPA,\nis one of four major types of infections in humans caused"
+    ],
+    "expected_phrases": [
+      "hepatitis",
+      "liver"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 17,
+    "question": "What is cirrhosis?",
+    "variant": "baseline",
+    "answer": "Cirrhosis is a condition in which the liver becomes scarred and loses its ability to function properly. The scarring impairs blood flow and protein processing, and it is commonly associated with portal hypertension. It results from chronic liver damage such as hepatitis, alcohol abuse, or other diseases.",
+    "retrieved": [
+      "scarred and cannot break down the proteins in the\nbloodstream. Cirrhosis is associated with portal\nhypertension.\nEmbolism\u2014A blood clot, air bubble, or clot of for-\neign material that travels and blocks the flow of\nblood in an artery. When blood supply to a tissue or\norgan is blocked by an embolism, infarction, or\ndeath of the tissue the artery feeds, occurs. Without\nimmediate and appropriate treatment, an embolism\ncan be fatal.\nFemoral artery\u2014An artery located in the groin area",
+      "scarred and cannot break down the proteins in the\nbloodstream. Cirrhosis is associated with portal\nhypertension.\nEmbolism\u2014A blood clot, air bubble, or clot of for-\neign material that travels and blocks the flow of\nblood in an artery. When blood supply to a tissue or\norgan is blocked by an embolism, infarction, or\ndeath of the tissue the artery feeds, occurs. Without\nimmediate and appropriate treatment, an embolism\ncan be fatal.\nFemoral artery\u2014An artery located in the groin area",
+      "sis of the liver. It is characterized by impaired or\nreversed blood flow from the portal vein to the liver,\nan enlarged spleen, and dilated veins in the esopha-\ngus and stomach.\nPortal vein thrombosis \u2014The development of a\nblood clot in the vein that brings blood into the\nliver. Untreated portal vein thrombosis causes por-\ntal hypertension.\nand the possible complications involved, and asked to\nsign an informed consent form.\nAftercare\nBecause life-threatening internal bleeding is a possi-"
+    ],
+    "expected_phrases": [
+      "cirrhosis",
+      "liver"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 17,
+    "question": "What is cirrhosis?",
+    "variant": "evidence_first",
+    "answer": "Cirrhosis is a condition in which the liver becomes scarred and loses its ability to break down proteins in the bloodstream. It is associated with portal hypertension.",
+    "retrieved": [
+      "scarred and cannot break down the proteins in the\nbloodstream. Cirrhosis is associated with portal\nhypertension.\nEmbolism\u2014A blood clot, air bubble, or clot of for-\neign material that travels and blocks the flow of\nblood in an artery. When blood supply to a tissue or\norgan is blocked by an embolism, infarction, or\ndeath of the tissue the artery feeds, occurs. Without\nimmediate and appropriate treatment, an embolism\ncan be fatal.\nFemoral artery\u2014An artery located in the groin area",
+      "scarred and cannot break down the proteins in the\nbloodstream. Cirrhosis is associated with portal\nhypertension.\nEmbolism\u2014A blood clot, air bubble, or clot of for-\neign material that travels and blocks the flow of\nblood in an artery. When blood supply to a tissue or\norgan is blocked by an embolism, infarction, or\ndeath of the tissue the artery feeds, occurs. Without\nimmediate and appropriate treatment, an embolism\ncan be fatal.\nFemoral artery\u2014An artery located in the groin area",
+      "sis of the liver. It is characterized by impaired or\nreversed blood flow from the portal vein to the liver,\nan enlarged spleen, and dilated veins in the esopha-\ngus and stomach.\nPortal vein thrombosis \u2014The development of a\nblood clot in the vein that brings blood into the\nliver. Untreated portal vein thrombosis causes por-\ntal hypertension.\nand the possible complications involved, and asked to\nsign an informed consent form.\nAftercare\nBecause life-threatening internal bleeding is a possi-"
+    ],
+    "expected_phrases": [
+      "cirrhosis",
+      "liver"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 17,
+    "question": "What is cirrhosis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Cirrhosis is a condition in which the liver becomes scarred and loses its ability to break down proteins in the bloodstream. It is associated with portal hypertension.",
+    "retrieved": [
+      "scarred and cannot break down the proteins in the\nbloodstream. Cirrhosis is associated with portal\nhypertension.\nEmbolism\u2014A blood clot, air bubble, or clot of for-\neign material that travels and blocks the flow of\nblood in an artery. When blood supply to a tissue or\norgan is blocked by an embolism, infarction, or\ndeath of the tissue the artery feeds, occurs. Without\nimmediate and appropriate treatment, an embolism\ncan be fatal.\nFemoral artery\u2014An artery located in the groin area",
+      "scarred and cannot break down the proteins in the\nbloodstream. Cirrhosis is associated with portal\nhypertension.\nEmbolism\u2014A blood clot, air bubble, or clot of for-\neign material that travels and blocks the flow of\nblood in an artery. When blood supply to a tissue or\norgan is blocked by an embolism, infarction, or\ndeath of the tissue the artery feeds, occurs. Without\nimmediate and appropriate treatment, an embolism\ncan be fatal.\nFemoral artery\u2014An artery located in the groin area",
+      "sis of the liver. It is characterized by impaired or\nreversed blood flow from the portal vein to the liver,\nan enlarged spleen, and dilated veins in the esopha-\ngus and stomach.\nPortal vein thrombosis \u2014The development of a\nblood clot in the vein that brings blood into the\nliver. Untreated portal vein thrombosis causes por-\ntal hypertension.\nand the possible complications involved, and asked to\nsign an informed consent form.\nAftercare\nBecause life-threatening internal bleeding is a possi-"
+    ],
+    "expected_phrases": [
+      "cirrhosis",
+      "liver"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 18,
+    "question": "What is a peptic ulcer?",
+    "variant": "baseline",
+    "answer": "A peptic ulcer is a sore that develops on the lining of the stomach (gastric ulcer) or the duodenum (duodenal ulcer) due to damage from stomach acid and digestive enzymes. It results from an imbalance between protective factors of the mucosa and aggressive factors such as acid, often worsened by certain medications. If untreated, it can cause pain, bleeding, or other complications.",
+    "retrieved": [
+      "eases. <http://www.niddk.nih.gov>.\nPharmInfoNet\u2019s Digestive Disease Center. <http://pharminfo.\ncom/disease.gastro.html>.\nStomach and Duodenal Ulcers. Fact sheet. National Institute of\nDiabetes and Digestive and Kidney Diseases, January\n1995 (NIH Publication No. 95-38).\nStomach Ulcer (Gastric Ulcer). Fact sheet. Johns Hopkins\nHealth Information Adult Health Advisor. Available on\nwebsite at <http://csi.intelihealth.com>.\nSamuel Uretsky, PharmD\nKEY TERMS",
+      "eases. <http://www.niddk.nih.gov>.\nPharmInfoNet\u2019s Digestive Disease Center. <http://pharminfo.\ncom/disease.gastro.html>.\nStomach and Duodenal Ulcers. Fact sheet. National Institute of\nDiabetes and Digestive and Kidney Diseases, January\n1995 (NIH Publication No. 95-38).\nStomach Ulcer (Gastric Ulcer). Fact sheet. Johns Hopkins\nHealth Information Adult Health Advisor. Available on\nwebsite at <http://csi.intelihealth.com>.\nSamuel Uretsky, PharmD\nKEY TERMS",
+      "problems. Gastrointestinal discomfort is common,\nalthough in some cases, these drugs may cause ulcers\nKEY TERMS\nAcute pain \u2014Pain that is usually temporary and\nresults from something specific, such as a surgery,\nan injury, or an infection.\nAnalgesic\u2014Medicine used to relieve pain.\nChronic pain \u2014Pain that lasts more than three\nmonths and threatens to disrupt daily life.\nInflammation \u2014Pain, redness, swelling, and heat\nthat usually develop in response to injury or illness."
+    ],
+    "expected_phrases": [
+      "ulcer",
+      "stomach"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 18,
+    "question": "What is a peptic ulcer?",
+    "variant": "evidence_first",
+    "answer": "A peptic ulcer is a sore (ulcer) that forms in the lining of the stomach or the duodenum\u3010Stomach and Duodenal Ulcers. Fact sheet. National Institute of Diabetes and Digestive and Kidney Diseases\u3011.",
+    "retrieved": [
+      "eases. <http://www.niddk.nih.gov>.\nPharmInfoNet\u2019s Digestive Disease Center. <http://pharminfo.\ncom/disease.gastro.html>.\nStomach and Duodenal Ulcers. Fact sheet. National Institute of\nDiabetes and Digestive and Kidney Diseases, January\n1995 (NIH Publication No. 95-38).\nStomach Ulcer (Gastric Ulcer). Fact sheet. Johns Hopkins\nHealth Information Adult Health Advisor. Available on\nwebsite at <http://csi.intelihealth.com>.\nSamuel Uretsky, PharmD\nKEY TERMS",
+      "eases. <http://www.niddk.nih.gov>.\nPharmInfoNet\u2019s Digestive Disease Center. <http://pharminfo.\ncom/disease.gastro.html>.\nStomach and Duodenal Ulcers. Fact sheet. National Institute of\nDiabetes and Digestive and Kidney Diseases, January\n1995 (NIH Publication No. 95-38).\nStomach Ulcer (Gastric Ulcer). Fact sheet. Johns Hopkins\nHealth Information Adult Health Advisor. Available on\nwebsite at <http://csi.intelihealth.com>.\nSamuel Uretsky, PharmD\nKEY TERMS",
+      "problems. Gastrointestinal discomfort is common,\nalthough in some cases, these drugs may cause ulcers\nKEY TERMS\nAcute pain \u2014Pain that is usually temporary and\nresults from something specific, such as a surgery,\nan injury, or an infection.\nAnalgesic\u2014Medicine used to relieve pain.\nChronic pain \u2014Pain that lasts more than three\nmonths and threatens to disrupt daily life.\nInflammation \u2014Pain, redness, swelling, and heat\nthat usually develop in response to injury or illness."
+    ],
+    "expected_phrases": [
+      "ulcer",
+      "stomach"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 18,
+    "question": "What is a peptic ulcer?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "The provided excerpts do not contain a definition of a peptic ulcer.",
+    "retrieved": [
+      "eases. <http://www.niddk.nih.gov>.\nPharmInfoNet\u2019s Digestive Disease Center. <http://pharminfo.\ncom/disease.gastro.html>.\nStomach and Duodenal Ulcers. Fact sheet. National Institute of\nDiabetes and Digestive and Kidney Diseases, January\n1995 (NIH Publication No. 95-38).\nStomach Ulcer (Gastric Ulcer). Fact sheet. Johns Hopkins\nHealth Information Adult Health Advisor. Available on\nwebsite at <http://csi.intelihealth.com>.\nSamuel Uretsky, PharmD\nKEY TERMS",
+      "eases. <http://www.niddk.nih.gov>.\nPharmInfoNet\u2019s Digestive Disease Center. <http://pharminfo.\ncom/disease.gastro.html>.\nStomach and Duodenal Ulcers. Fact sheet. National Institute of\nDiabetes and Digestive and Kidney Diseases, January\n1995 (NIH Publication No. 95-38).\nStomach Ulcer (Gastric Ulcer). Fact sheet. Johns Hopkins\nHealth Information Adult Health Advisor. Available on\nwebsite at <http://csi.intelihealth.com>.\nSamuel Uretsky, PharmD\nKEY TERMS",
+      "problems. Gastrointestinal discomfort is common,\nalthough in some cases, these drugs may cause ulcers\nKEY TERMS\nAcute pain \u2014Pain that is usually temporary and\nresults from something specific, such as a surgery,\nan injury, or an infection.\nAnalgesic\u2014Medicine used to relieve pain.\nChronic pain \u2014Pain that lasts more than three\nmonths and threatens to disrupt daily life.\nInflammation \u2014Pain, redness, swelling, and heat\nthat usually develop in response to injury or illness."
+    ],
+    "expected_phrases": [
+      "ulcer",
+      "stomach"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 19,
+    "question": "What is gastroenteritis?",
+    "variant": "baseline",
+    "answer": "Gastroenteritis is an inflammation of the gastrointestinal tract\u2014primarily the stomach and intestines\u2014usually caused by infection. It typically presents with diarrhea, vomiting, abdominal pain, and sometimes fever. The condition results from pathogens (bacterial, viral, or parasitic) that irritate the lining of the GI tract.",
+    "retrieved": [
+      "KEY TERMS\nAntibiotic\u2014Medicine used to treat infections.\nEnzyme\u2014A type of protein, produced in the body,\nthat brings about or speeds up chemical reactions.\nGastrointestinal tract \u2014The stomach, small intes-\ntine and large intestine.\nHypersecretory\u2014Excessive production of a bodily\nsecretion. The most common hypersecretory syn-\ndrome of the stomach is Zollinger-Ellison Syn-\ndrome, a syndrome consisting of fulminating\nintractable peptic ulcers, gastric hypersecretion and",
+      "KEY TERMS\nAntibiotic\u2014Medicine used to treat infections.\nEnzyme\u2014A type of protein, produced in the body,\nthat brings about or speeds up chemical reactions.\nGastrointestinal tract \u2014The stomach, small intes-\ntine and large intestine.\nHypersecretory\u2014Excessive production of a bodily\nsecretion. The most common hypersecretory syn-\ndrome of the stomach is Zollinger-Ellison Syn-\ndrome, a syndrome consisting of fulminating\nintractable peptic ulcers, gastric hypersecretion and",
+      "considered when a patient has diarrhea combined with a\npossible history of recent exposure to amebiasis through\ntravel, contact with infected persons, or anal intercourse.\nSpecifically, a diagnosis of balantidiasis is made by\nfinding B. coli cysts or trophozoites in the patient\u2019s stools\nor by finding trophozoites in tissue samples (biopsy)\ntaken from the large bowel. A diagnostic blood test has\nnot yet been developed.\nStool examination\nThis test involves microscopically examining a stool"
+    ],
+    "expected_phrases": [
+      "gastroenteritis",
+      "intestinal"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 19,
+    "question": "What is gastroenteritis?",
+    "variant": "evidence_first",
+    "answer": "The excerpts do not provide enough information to define gastroenteritis.",
+    "retrieved": [
+      "KEY TERMS\nAntibiotic\u2014Medicine used to treat infections.\nEnzyme\u2014A type of protein, produced in the body,\nthat brings about or speeds up chemical reactions.\nGastrointestinal tract \u2014The stomach, small intes-\ntine and large intestine.\nHypersecretory\u2014Excessive production of a bodily\nsecretion. The most common hypersecretory syn-\ndrome of the stomach is Zollinger-Ellison Syn-\ndrome, a syndrome consisting of fulminating\nintractable peptic ulcers, gastric hypersecretion and",
+      "KEY TERMS\nAntibiotic\u2014Medicine used to treat infections.\nEnzyme\u2014A type of protein, produced in the body,\nthat brings about or speeds up chemical reactions.\nGastrointestinal tract \u2014The stomach, small intes-\ntine and large intestine.\nHypersecretory\u2014Excessive production of a bodily\nsecretion. The most common hypersecretory syn-\ndrome of the stomach is Zollinger-Ellison Syn-\ndrome, a syndrome consisting of fulminating\nintractable peptic ulcers, gastric hypersecretion and",
+      "considered when a patient has diarrhea combined with a\npossible history of recent exposure to amebiasis through\ntravel, contact with infected persons, or anal intercourse.\nSpecifically, a diagnosis of balantidiasis is made by\nfinding B. coli cysts or trophozoites in the patient\u2019s stools\nor by finding trophozoites in tissue samples (biopsy)\ntaken from the large bowel. A diagnostic blood test has\nnot yet been developed.\nStool examination\nThis test involves microscopically examining a stool"
+    ],
+    "expected_phrases": [
+      "gastroenteritis",
+      "intestinal"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": false
+  },
+  {
+    "id": 19,
+    "question": "What is gastroenteritis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "The provided excerpts do not contain a definition of gastroenteritis.",
+    "retrieved": [
+      "KEY TERMS\nAntibiotic\u2014Medicine used to treat infections.\nEnzyme\u2014A type of protein, produced in the body,\nthat brings about or speeds up chemical reactions.\nGastrointestinal tract \u2014The stomach, small intes-\ntine and large intestine.\nHypersecretory\u2014Excessive production of a bodily\nsecretion. The most common hypersecretory syn-\ndrome of the stomach is Zollinger-Ellison Syn-\ndrome, a syndrome consisting of fulminating\nintractable peptic ulcers, gastric hypersecretion and",
+      "KEY TERMS\nAntibiotic\u2014Medicine used to treat infections.\nEnzyme\u2014A type of protein, produced in the body,\nthat brings about or speeds up chemical reactions.\nGastrointestinal tract \u2014The stomach, small intes-\ntine and large intestine.\nHypersecretory\u2014Excessive production of a bodily\nsecretion. The most common hypersecretory syn-\ndrome of the stomach is Zollinger-Ellison Syn-\ndrome, a syndrome consisting of fulminating\nintractable peptic ulcers, gastric hypersecretion and",
+      "considered when a patient has diarrhea combined with a\npossible history of recent exposure to amebiasis through\ntravel, contact with infected persons, or anal intercourse.\nSpecifically, a diagnosis of balantidiasis is made by\nfinding B. coli cysts or trophozoites in the patient\u2019s stools\nor by finding trophozoites in tissue samples (biopsy)\ntaken from the large bowel. A diagnostic blood test has\nnot yet been developed.\nStool examination\nThis test involves microscopically examining a stool"
+    ],
+    "expected_phrases": [
+      "gastroenteritis",
+      "intestinal"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": false
+  },
+  {
+    "id": 20,
+    "question": "What is a urinary tract infection?",
+    "variant": "baseline",
+    "answer": "A urinary tract infection (UTI) is an infection caused by bacteria that colonize the urinary tract\u2019s moist linings, such as the bladder, ureters, or urethra. It can produce symptoms like fever, dysuria, and urinary urgency, though sometimes it is asymptomatic. If bacteria enter the bloodstream, it may lead to bacteremia and, in severe cases, septic shock.",
+    "retrieved": [
+      "stream. This may occur through a wound or infection, or\nthrough a surgical procedure or injection. Bacteremia\nmay cause no symptoms and resolve without treatment,\nor it may produce fever and other symptoms of infection.\nIn some cases, bacteremia leads to septic shock, a poten-\ntially life-threatening condition.\nCauses and symptoms\nCauses\nSeveral types of bacteria live on the surface of the\nskin or colonize the moist linings of the urinary tract,",
+      "stream. This may occur through a wound or infection, or\nthrough a surgical procedure or injection. Bacteremia\nmay cause no symptoms and resolve without treatment,\nor it may produce fever and other symptoms of infection.\nIn some cases, bacteremia leads to septic shock, a poten-\ntially life-threatening condition.\nCauses and symptoms\nCauses\nSeveral types of bacteria live on the surface of the\nskin or colonize the moist linings of the urinary tract,",
+      "The urinary bladder is a hollow muscular organ that\nstores urine from the kidneys until it is excreted out of\nthe body. Two tubes called the ureters bring the urine\nfrom the kidneys to the bladder. The urethra carries the\nurine from the bladder to the outside of the body.\nBladder cancer has a very high rate of recurrence.\nEven after superficial tumors are completely removed,\nGALE ENCYCLOPEDIA OF MEDICINE 2506\nBladder cancer\nGEM -0433 to 0624 - B  10/22/03 6:08 PM  Page 506"
+    ],
+    "expected_phrases": [
+      "urinary tract",
+      "infection"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 20,
+    "question": "What is a urinary tract infection?",
+    "variant": "evidence_first",
+    "answer": "The excerpts do not provide enough information to define a urinary tract infection.",
+    "retrieved": [
+      "stream. This may occur through a wound or infection, or\nthrough a surgical procedure or injection. Bacteremia\nmay cause no symptoms and resolve without treatment,\nor it may produce fever and other symptoms of infection.\nIn some cases, bacteremia leads to septic shock, a poten-\ntially life-threatening condition.\nCauses and symptoms\nCauses\nSeveral types of bacteria live on the surface of the\nskin or colonize the moist linings of the urinary tract,",
+      "stream. This may occur through a wound or infection, or\nthrough a surgical procedure or injection. Bacteremia\nmay cause no symptoms and resolve without treatment,\nor it may produce fever and other symptoms of infection.\nIn some cases, bacteremia leads to septic shock, a poten-\ntially life-threatening condition.\nCauses and symptoms\nCauses\nSeveral types of bacteria live on the surface of the\nskin or colonize the moist linings of the urinary tract,",
+      "The urinary bladder is a hollow muscular organ that\nstores urine from the kidneys until it is excreted out of\nthe body. Two tubes called the ureters bring the urine\nfrom the kidneys to the bladder. The urethra carries the\nurine from the bladder to the outside of the body.\nBladder cancer has a very high rate of recurrence.\nEven after superficial tumors are completely removed,\nGALE ENCYCLOPEDIA OF MEDICINE 2506\nBladder cancer\nGEM -0433 to 0624 - B  10/22/03 6:08 PM  Page 506"
+    ],
+    "expected_phrases": [
+      "urinary tract",
+      "infection"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 20,
+    "question": "What is a urinary tract infection?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "The provided excerpts do not contain a definition of a urinary tract infection.",
+    "retrieved": [
+      "stream. This may occur through a wound or infection, or\nthrough a surgical procedure or injection. Bacteremia\nmay cause no symptoms and resolve without treatment,\nor it may produce fever and other symptoms of infection.\nIn some cases, bacteremia leads to septic shock, a poten-\ntially life-threatening condition.\nCauses and symptoms\nCauses\nSeveral types of bacteria live on the surface of the\nskin or colonize the moist linings of the urinary tract,",
+      "stream. This may occur through a wound or infection, or\nthrough a surgical procedure or injection. Bacteremia\nmay cause no symptoms and resolve without treatment,\nor it may produce fever and other symptoms of infection.\nIn some cases, bacteremia leads to septic shock, a poten-\ntially life-threatening condition.\nCauses and symptoms\nCauses\nSeveral types of bacteria live on the surface of the\nskin or colonize the moist linings of the urinary tract,",
+      "The urinary bladder is a hollow muscular organ that\nstores urine from the kidneys until it is excreted out of\nthe body. Two tubes called the ureters bring the urine\nfrom the kidneys to the bladder. The urethra carries the\nurine from the bladder to the outside of the body.\nBladder cancer has a very high rate of recurrence.\nEven after superficial tumors are completely removed,\nGALE ENCYCLOPEDIA OF MEDICINE 2506\nBladder cancer\nGEM -0433 to 0624 - B  10/22/03 6:08 PM  Page 506"
+    ],
+    "expected_phrases": [
+      "urinary tract",
+      "infection"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 21,
+    "question": "What is a kidney stone?",
+    "variant": "baseline",
+    "answer": "I don\u2019t have a definition of a kidney stone in the provided information.",
+    "retrieved": [
+      "Lata Cherath, PhD\nBladder removal see Cystectomy\nBladder resection see Transurethral bladder\nresection\nBladder stones\nDefinition\nBladder stones are crystalline masses that form from\nthe minerals and proteins, which naturally occur in\nurine. These types of stones are much less common than\nkidney stones.\nDescription\nBladder stones can form anywhere in the urinary\ntract before depositing in the bladder. They begin as tiny\ngranules about the size of a grain of sand, but they can",
+      "Lata Cherath, PhD\nBladder removal see Cystectomy\nBladder resection see Transurethral bladder\nresection\nBladder stones\nDefinition\nBladder stones are crystalline masses that form from\nthe minerals and proteins, which naturally occur in\nurine. These types of stones are much less common than\nkidney stones.\nDescription\nBladder stones can form anywhere in the urinary\ntract before depositing in the bladder. They begin as tiny\ngranules about the size of a grain of sand, but they can",
+      "help to prevent recurrences of bladder stones.\nResources\nBOOKS\nRoss, Linda M. and Peter Dresser, eds. Kidney and Urinary\nTract Diseases and Disorders Sourcebook.Detroit, MI:\nOmnigraphics, Inc., 1997.\nPERIODICALS\nSchwartz, B.F. and M.L. Stoller. \u201cThe vesical calculus.\u201dUro-\nlogic Clinics of North America 27 (May 2000): 333-46.\nKEY TERMS\nBladder \u2014A small organ that serves as the reser-\nvoir for urine prior to its passing from the body\nduring urination."
+    ],
+    "expected_phrases": [
+      "kidney stone",
+      "renal calculus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 21,
+    "question": "What is a kidney stone?",
+    "variant": "evidence_first",
+    "answer": "The excerpts do not provide enough information to define a kidney stone.",
+    "retrieved": [
+      "Lata Cherath, PhD\nBladder removal see Cystectomy\nBladder resection see Transurethral bladder\nresection\nBladder stones\nDefinition\nBladder stones are crystalline masses that form from\nthe minerals and proteins, which naturally occur in\nurine. These types of stones are much less common than\nkidney stones.\nDescription\nBladder stones can form anywhere in the urinary\ntract before depositing in the bladder. They begin as tiny\ngranules about the size of a grain of sand, but they can",
+      "Lata Cherath, PhD\nBladder removal see Cystectomy\nBladder resection see Transurethral bladder\nresection\nBladder stones\nDefinition\nBladder stones are crystalline masses that form from\nthe minerals and proteins, which naturally occur in\nurine. These types of stones are much less common than\nkidney stones.\nDescription\nBladder stones can form anywhere in the urinary\ntract before depositing in the bladder. They begin as tiny\ngranules about the size of a grain of sand, but they can",
+      "help to prevent recurrences of bladder stones.\nResources\nBOOKS\nRoss, Linda M. and Peter Dresser, eds. Kidney and Urinary\nTract Diseases and Disorders Sourcebook.Detroit, MI:\nOmnigraphics, Inc., 1997.\nPERIODICALS\nSchwartz, B.F. and M.L. Stoller. \u201cThe vesical calculus.\u201dUro-\nlogic Clinics of North America 27 (May 2000): 333-46.\nKEY TERMS\nBladder \u2014A small organ that serves as the reser-\nvoir for urine prior to its passing from the body\nduring urination."
+    ],
+    "expected_phrases": [
+      "kidney stone",
+      "renal calculus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 21,
+    "question": "What is a kidney stone?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "The provided excerpts define and describe bladder stones but do not contain any information about kidney stones. Therefore, they do not answer the question.",
+    "retrieved": [
+      "Lata Cherath, PhD\nBladder removal see Cystectomy\nBladder resection see Transurethral bladder\nresection\nBladder stones\nDefinition\nBladder stones are crystalline masses that form from\nthe minerals and proteins, which naturally occur in\nurine. These types of stones are much less common than\nkidney stones.\nDescription\nBladder stones can form anywhere in the urinary\ntract before depositing in the bladder. They begin as tiny\ngranules about the size of a grain of sand, but they can",
+      "Lata Cherath, PhD\nBladder removal see Cystectomy\nBladder resection see Transurethral bladder\nresection\nBladder stones\nDefinition\nBladder stones are crystalline masses that form from\nthe minerals and proteins, which naturally occur in\nurine. These types of stones are much less common than\nkidney stones.\nDescription\nBladder stones can form anywhere in the urinary\ntract before depositing in the bladder. They begin as tiny\ngranules about the size of a grain of sand, but they can",
+      "help to prevent recurrences of bladder stones.\nResources\nBOOKS\nRoss, Linda M. and Peter Dresser, eds. Kidney and Urinary\nTract Diseases and Disorders Sourcebook.Detroit, MI:\nOmnigraphics, Inc., 1997.\nPERIODICALS\nSchwartz, B.F. and M.L. Stoller. \u201cThe vesical calculus.\u201dUro-\nlogic Clinics of North America 27 (May 2000): 333-46.\nKEY TERMS\nBladder \u2014A small organ that serves as the reser-\nvoir for urine prior to its passing from the body\nduring urination."
+    ],
+    "expected_phrases": [
+      "kidney stone",
+      "renal calculus"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 22,
+    "question": "What is hypothyroidism?",
+    "variant": "baseline",
+    "answer": "Hypothyroidism is a condition in which the thyroid gland produces insufficient thyroid hormone. It often results from autoimmune Hashimoto\u2019s thyroiditis, where antibodies bind to thyroid cells and diminish hormone production. The low hormone levels lead to a slowed metabolism and related symptoms.",
+    "retrieved": [
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "ty to cool itself. Severe headache, high fever, and\nhot, dry skin may result. In severe cases, a person\nwith heat stroke may collapse or go into a coma.\nHiatal hernia \u2014A condition in which part of the\nstomach protrudes through the diaphragm.\nHyperthyroidism \u2014Secretion of excess thyroid\nhormones by the thyroid gland.\nInflammation \u2014Pain, redness, swelling, and heat\nthat usually develop in response to injury or illness.\nMyasthenia gravis \u2014A condition in which certain"
+    ],
+    "expected_phrases": [
+      "hypothyroidism",
+      "thyroid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 22,
+    "question": "What is hypothyroidism?",
+    "variant": "evidence_first",
+    "answer": "Hypothyroidism is a condition in which the thyroid gland produces too little thyroid hormone.\u202fIn Hashimoto\u2019s thyroiditis, an antibody binds to thyroid cells and its action results in less thyroid hormone being made, exemplifying hypothyroidism.",
+    "retrieved": [
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "ty to cool itself. Severe headache, high fever, and\nhot, dry skin may result. In severe cases, a person\nwith heat stroke may collapse or go into a coma.\nHiatal hernia \u2014A condition in which part of the\nstomach protrudes through the diaphragm.\nHyperthyroidism \u2014Secretion of excess thyroid\nhormones by the thyroid gland.\nInflammation \u2014Pain, redness, swelling, and heat\nthat usually develop in response to injury or illness.\nMyasthenia gravis \u2014A condition in which certain"
+    ],
+    "expected_phrases": [
+      "hypothyroidism",
+      "thyroid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 22,
+    "question": "What is hypothyroidism?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Hypothyroidism is a condition in which the thyroid gland produces less thyroid hormone.\u202fIn Hashimoto\u2019s thyroiditis, an antibody binds to thyroid cells and its action results in reduced hormone production, illustrating this state.",
+    "retrieved": [
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "ty to cool itself. Severe headache, high fever, and\nhot, dry skin may result. In severe cases, a person\nwith heat stroke may collapse or go into a coma.\nHiatal hernia \u2014A condition in which part of the\nstomach protrudes through the diaphragm.\nHyperthyroidism \u2014Secretion of excess thyroid\nhormones by the thyroid gland.\nInflammation \u2014Pain, redness, swelling, and heat\nthat usually develop in response to injury or illness.\nMyasthenia gravis \u2014A condition in which certain"
+    ],
+    "expected_phrases": [
+      "hypothyroidism",
+      "thyroid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 23,
+    "question": "What is hyperthyroidism?",
+    "variant": "baseline",
+    "answer": "Hyperthyroidism is a disorder in which the thyroid gland produces excess thyroid hormone, leading to an accelerated metabolism. It commonly causes an enlarged thyroid (goiter), weight loss without reduced appetite, sweating, heart palpitations, nervousness, and intolerance to heat. These symptoms result from the overstimulation of many body systems by the surplus hormone.",
+    "retrieved": [
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "enlarged thyroid gland, weight loss without loss of\nappetite, sweating, heart palpitations , nervousness,\nand an inability to tolerate heat.\n\u2022 Hashimoto\u2019s thyroiditis. This disorder generally dis-\nplays no symptoms.\n\u2022 Pemphigus vulgaris. This disease is characterized by\nblisters and deep lesions on the skin.\n\u2022 Myasthenia gravis. Characterized by fatigue and mus-\ncle weakness that at first may be confined to certain\nmuscle groups, but then may progress to the point of"
+    ],
+    "expected_phrases": [
+      "hyperthyroidism",
+      "thyroid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 23,
+    "question": "What is hyperthyroidism?",
+    "variant": "evidence_first",
+    "answer": "Hyperthyroidism is a condition marked by an enlarged thyroid gland and symptoms such as weight loss without loss of appetite, sweating, heart palpitations, nervousness, and an inability to tolerate heat.",
+    "retrieved": [
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "enlarged thyroid gland, weight loss without loss of\nappetite, sweating, heart palpitations , nervousness,\nand an inability to tolerate heat.\n\u2022 Hashimoto\u2019s thyroiditis. This disorder generally dis-\nplays no symptoms.\n\u2022 Pemphigus vulgaris. This disease is characterized by\nblisters and deep lesions on the skin.\n\u2022 Myasthenia gravis. Characterized by fatigue and mus-\ncle weakness that at first may be confined to certain\nmuscle groups, but then may progress to the point of"
+    ],
+    "expected_phrases": [
+      "hyperthyroidism",
+      "thyroid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 23,
+    "question": "What is hyperthyroidism?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Hyperthyroidism is a condition marked by an enlarged thyroid gland and symptoms that include weight loss without loss of appetite, sweating, heart palpitations, nervousness, and an inability to tolerate heat. (Source: excerpt listing these signs.)",
+    "retrieved": [
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "\u2022 Hashimoto\u2019s thyroiditis . Caused by an antibody that\nbinds to cells in the thyroid gland. Unlike in Grave\u2019s\ndisease, however, this antibody\u2019s action results in less\nthyroid hormone being made.\n\u2022 Pemphigus vulgaris. A group of autoimmune disorders\nthat affect the skin.\n\u2022 Myasthenia gravis . A condition in which the immune\nsystem attacks a receptor on the surface of muscle cells,\npreventing the muscle from receiving nerve impulses\nand resulting in severe muscle weakness.",
+      "enlarged thyroid gland, weight loss without loss of\nappetite, sweating, heart palpitations , nervousness,\nand an inability to tolerate heat.\n\u2022 Hashimoto\u2019s thyroiditis. This disorder generally dis-\nplays no symptoms.\n\u2022 Pemphigus vulgaris. This disease is characterized by\nblisters and deep lesions on the skin.\n\u2022 Myasthenia gravis. Characterized by fatigue and mus-\ncle weakness that at first may be confined to certain\nmuscle groups, but then may progress to the point of"
+    ],
+    "expected_phrases": [
+      "hyperthyroidism",
+      "thyroid"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 24,
+    "question": "What is osteoporosis?",
+    "variant": "baseline",
+    "answer": "Osteoporosis is a disease in which bone mass is reduced, causing the interior of the bones to become porous and thin. This weakening makes the bones more likely to fracture and is especially common in post\u2011menopausal women and older men. Women are about four times more likely to develop it because they have lower bone mass than men.",
+    "retrieved": [
+      "wear and tear, age and less often from inflammation.\nOsteogenesis imperfecta\u2014Also called brittle bones,\nthis is a condition present at birth in which bones\nare abnormally fragile, brittle and break easily.\nOsteomalacia\u2014A disease in which bones gradual-\nly soften and bend.\nOsteomyelitis \u2014An infection of the bone marrow\nand the bone.\nOsteoporosis \u2014A disease which occurs primarily\nin post-menopausal women in which the amount\nof bone is reduced or skeletal tissue wastes away.",
+      "wear and tear, age and less often from inflammation.\nOsteogenesis imperfecta\u2014Also called brittle bones,\nthis is a condition present at birth in which bones\nare abnormally fragile, brittle and break easily.\nOsteomalacia\u2014A disease in which bones gradual-\nly soften and bend.\nOsteomyelitis \u2014An infection of the bone marrow\nand the bone.\nOsteoporosis \u2014A disease which occurs primarily\nin post-menopausal women in which the amount\nof bone is reduced or skeletal tissue wastes away.",
+      "of old bone and its replacement with new bone. But\nwhen something goes wrong with the process, bone dis-\norders may result.\nOsteoporosis is a particular concern for women\nafter menopause, as well as for older men. In osteo-\nporosis, the inside of the bones become porous and thin.\nOver time, this condition weakens the bones and makes\nthem more likely to break. Osteoporosis is four times\nmore common in women than in men. This is because\nwomen have less bone mass than men, tend to live"
+    ],
+    "expected_phrases": [
+      "osteoporosis",
+      "bone"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 24,
+    "question": "What is osteoporosis?",
+    "variant": "evidence_first",
+    "answer": "Osteoporosis is a disease, especially common in post\u2011menopausal women and older men, in which bone mass is reduced and the interior of the bones becomes porous and thin, weakening the skeleton and increasing fracture risk.",
+    "retrieved": [
+      "wear and tear, age and less often from inflammation.\nOsteogenesis imperfecta\u2014Also called brittle bones,\nthis is a condition present at birth in which bones\nare abnormally fragile, brittle and break easily.\nOsteomalacia\u2014A disease in which bones gradual-\nly soften and bend.\nOsteomyelitis \u2014An infection of the bone marrow\nand the bone.\nOsteoporosis \u2014A disease which occurs primarily\nin post-menopausal women in which the amount\nof bone is reduced or skeletal tissue wastes away.",
+      "wear and tear, age and less often from inflammation.\nOsteogenesis imperfecta\u2014Also called brittle bones,\nthis is a condition present at birth in which bones\nare abnormally fragile, brittle and break easily.\nOsteomalacia\u2014A disease in which bones gradual-\nly soften and bend.\nOsteomyelitis \u2014An infection of the bone marrow\nand the bone.\nOsteoporosis \u2014A disease which occurs primarily\nin post-menopausal women in which the amount\nof bone is reduced or skeletal tissue wastes away.",
+      "of old bone and its replacement with new bone. But\nwhen something goes wrong with the process, bone dis-\norders may result.\nOsteoporosis is a particular concern for women\nafter menopause, as well as for older men. In osteo-\nporosis, the inside of the bones become porous and thin.\nOver time, this condition weakens the bones and makes\nthem more likely to break. Osteoporosis is four times\nmore common in women than in men. This is because\nwomen have less bone mass than men, tend to live"
+    ],
+    "expected_phrases": [
+      "osteoporosis",
+      "bone"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 24,
+    "question": "What is osteoporosis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Osteoporosis is a disease in which the amount of bone is reduced, causing the interior of the bones to become porous and thin, which weakens the skeleton and makes fractures more likely. It occurs primarily in post\u2011menopausal women and older men, and is about four times more common in women because they have less bone mass.",
+    "retrieved": [
+      "wear and tear, age and less often from inflammation.\nOsteogenesis imperfecta\u2014Also called brittle bones,\nthis is a condition present at birth in which bones\nare abnormally fragile, brittle and break easily.\nOsteomalacia\u2014A disease in which bones gradual-\nly soften and bend.\nOsteomyelitis \u2014An infection of the bone marrow\nand the bone.\nOsteoporosis \u2014A disease which occurs primarily\nin post-menopausal women in which the amount\nof bone is reduced or skeletal tissue wastes away.",
+      "wear and tear, age and less often from inflammation.\nOsteogenesis imperfecta\u2014Also called brittle bones,\nthis is a condition present at birth in which bones\nare abnormally fragile, brittle and break easily.\nOsteomalacia\u2014A disease in which bones gradual-\nly soften and bend.\nOsteomyelitis \u2014An infection of the bone marrow\nand the bone.\nOsteoporosis \u2014A disease which occurs primarily\nin post-menopausal women in which the amount\nof bone is reduced or skeletal tissue wastes away.",
+      "of old bone and its replacement with new bone. But\nwhen something goes wrong with the process, bone dis-\norders may result.\nOsteoporosis is a particular concern for women\nafter menopause, as well as for older men. In osteo-\nporosis, the inside of the bones become porous and thin.\nOver time, this condition weakens the bones and makes\nthem more likely to break. Osteoporosis is four times\nmore common in women than in men. This is because\nwomen have less bone mass than men, tend to live"
+    ],
+    "expected_phrases": [
+      "osteoporosis",
+      "bone"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 25,
+    "question": "What is rheumatoid arthritis?",
+    "variant": "baseline",
+    "answer": "Rheumatoid arthritis is an autoimmune disease in which the body\u2019s immune system attacks its own joints. It leads to painful, stiff, and swollen joints and can also cause systemic symptoms such as fever, fatigue, and loss of appetite. The condition can have devastating effects on joint function and overall health.",
+    "retrieved": [
+      "of the joints in the spine. AS is also known as rheumatoid\nspondylitis or Marie-Str\u00fcmpell disease (among other\nnames).\nDescription\nA form of arthritis, AS is characterized by chronic\ninflammation, causing pain and stiffness of the back,\nGALE ENCYCLOPEDIA OF MEDICINE 2208\nAnkylosing spondylitis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 208",
+      "of the joints in the spine. AS is also known as rheumatoid\nspondylitis or Marie-Str\u00fcmpell disease (among other\nnames).\nDescription\nA form of arthritis, AS is characterized by chronic\ninflammation, causing pain and stiffness of the back,\nGALE ENCYCLOPEDIA OF MEDICINE 2208\nAnkylosing spondylitis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 208",
+      "that has devastating effects on joints and general health. It\nis classified as an auto-immune disease, because the dis-\nease is caused by the body\u2019s own immune system acting\nagainst the body itself. Symptoms include painful, stiff,\nswollen joints, fever, fatigue, and loss of appetite.\nIn recent years, there has been a change in attitude\nconcerning the treatment of rheumatoid arthritis. Physi-\ncians now use Disease Modifying Anti-Rheumatic Drugs"
+    ],
+    "expected_phrases": [
+      "rheumatoid arthritis",
+      "joint"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 25,
+    "question": "What is rheumatoid arthritis?",
+    "variant": "evidence_first",
+    "answer": "Rheumatoid arthritis is an autoimmune disease in which the body\u2019s immune system attacks its own joints, leading to painful, stiff and swollen joints often accompanied by fever, fatigue and loss of appetite.",
+    "retrieved": [
+      "of the joints in the spine. AS is also known as rheumatoid\nspondylitis or Marie-Str\u00fcmpell disease (among other\nnames).\nDescription\nA form of arthritis, AS is characterized by chronic\ninflammation, causing pain and stiffness of the back,\nGALE ENCYCLOPEDIA OF MEDICINE 2208\nAnkylosing spondylitis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 208",
+      "of the joints in the spine. AS is also known as rheumatoid\nspondylitis or Marie-Str\u00fcmpell disease (among other\nnames).\nDescription\nA form of arthritis, AS is characterized by chronic\ninflammation, causing pain and stiffness of the back,\nGALE ENCYCLOPEDIA OF MEDICINE 2208\nAnkylosing spondylitis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 208",
+      "that has devastating effects on joints and general health. It\nis classified as an auto-immune disease, because the dis-\nease is caused by the body\u2019s own immune system acting\nagainst the body itself. Symptoms include painful, stiff,\nswollen joints, fever, fatigue, and loss of appetite.\nIn recent years, there has been a change in attitude\nconcerning the treatment of rheumatoid arthritis. Physi-\ncians now use Disease Modifying Anti-Rheumatic Drugs"
+    ],
+    "expected_phrases": [
+      "rheumatoid arthritis",
+      "joint"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 25,
+    "question": "What is rheumatoid arthritis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Rheumatoid arthritis is an autoimmune disease in which the body\u2019s immune system attacks its own tissues, leading to devastating effects on joints and overall health.\u202fIt is characterized by painful, stiff, and swollen joints, often accompanied by fever, fatigue, and loss of appetite.\u202fPhysicians commonly treat it with disease\u2011modifying anti\u2011rheumatic drugs.",
+    "retrieved": [
+      "of the joints in the spine. AS is also known as rheumatoid\nspondylitis or Marie-Str\u00fcmpell disease (among other\nnames).\nDescription\nA form of arthritis, AS is characterized by chronic\ninflammation, causing pain and stiffness of the back,\nGALE ENCYCLOPEDIA OF MEDICINE 2208\nAnkylosing spondylitis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 208",
+      "of the joints in the spine. AS is also known as rheumatoid\nspondylitis or Marie-Str\u00fcmpell disease (among other\nnames).\nDescription\nA form of arthritis, AS is characterized by chronic\ninflammation, causing pain and stiffness of the back,\nGALE ENCYCLOPEDIA OF MEDICINE 2208\nAnkylosing spondylitis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 208",
+      "that has devastating effects on joints and general health. It\nis classified as an auto-immune disease, because the dis-\nease is caused by the body\u2019s own immune system acting\nagainst the body itself. Symptoms include painful, stiff,\nswollen joints, fever, fatigue, and loss of appetite.\nIn recent years, there has been a change in attitude\nconcerning the treatment of rheumatoid arthritis. Physi-\ncians now use Disease Modifying Anti-Rheumatic Drugs"
+    ],
+    "expected_phrases": [
+      "rheumatoid arthritis",
+      "joint"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 26,
+    "question": "What is eczema?",
+    "variant": "baseline",
+    "answer": "Eczema is a general term for a group of skin conditions that cause an itchy, inflamed rash. It often presents with redness, swelling, and may develop blisters that ooze and form crusts. The condition is non\u2011contagious and can be chronic, as seen in atopic dermatitis.",
+    "retrieved": [
+      "OTHER\nAtkins Center for Complementary Medicine. 152 E. 55th St.,\nNew York, NY 10022. 212-758-2110. <http://www.atkins\ncenter.com>.\nKen R. Wells\nAtopic dermatitis\nDefinition\nEczema is a general term used to describe a variety\nof conditions that cause an itchy, inflamed skin rash.\nAtopic dermatitis , a form of eczema, is a non-conta-\ngious disorder characterized by chronically inflamed\nskin and sometimes intolerable itching.\nDescription\nAtopic dermatitis refers to a wide range of diseases",
+      "OTHER\nAtkins Center for Complementary Medicine. 152 E. 55th St.,\nNew York, NY 10022. 212-758-2110. <http://www.atkins\ncenter.com>.\nKen R. Wells\nAtopic dermatitis\nDefinition\nEczema is a general term used to describe a variety\nof conditions that cause an itchy, inflamed skin rash.\nAtopic dermatitis , a form of eczema, is a non-conta-\ngious disorder characterized by chronically inflamed\nskin and sometimes intolerable itching.\nDescription\nAtopic dermatitis refers to a wide range of diseases",
+      "Eczema\u2014Inflammation of the skin with itching\nand a rash. The rash may have blisters that ooze\nand form crusts.\nPimple\u2014A small, red swelling of the skin.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPus\u2014Thick, whitish or yellowish fluid that forms\nin infected tissue.\nTriglyceride \u2014A substance formed in the body\nfrom fat in the diet.\nand stinging, and a warm feeling to the skin. These prob-\nlems usually go away as the body adjusts to the drug and"
+    ],
+    "expected_phrases": [
+      "eczema",
+      "skin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 26,
+    "question": "What is eczema?",
+    "variant": "evidence_first",
+    "answer": "Eczema is a general term for a group of skin conditions that produce an itchy, inflamed rash. It may involve redness, swelling, blisters that ooze and form crusts, and a warm, stinging sensation.\u202f(The excerpts define eczema as \u201ca variety of conditions that cause an itchy, inflamed skin rash\u201d and describe its typical features.)",
+    "retrieved": [
+      "OTHER\nAtkins Center for Complementary Medicine. 152 E. 55th St.,\nNew York, NY 10022. 212-758-2110. <http://www.atkins\ncenter.com>.\nKen R. Wells\nAtopic dermatitis\nDefinition\nEczema is a general term used to describe a variety\nof conditions that cause an itchy, inflamed skin rash.\nAtopic dermatitis , a form of eczema, is a non-conta-\ngious disorder characterized by chronically inflamed\nskin and sometimes intolerable itching.\nDescription\nAtopic dermatitis refers to a wide range of diseases",
+      "OTHER\nAtkins Center for Complementary Medicine. 152 E. 55th St.,\nNew York, NY 10022. 212-758-2110. <http://www.atkins\ncenter.com>.\nKen R. Wells\nAtopic dermatitis\nDefinition\nEczema is a general term used to describe a variety\nof conditions that cause an itchy, inflamed skin rash.\nAtopic dermatitis , a form of eczema, is a non-conta-\ngious disorder characterized by chronically inflamed\nskin and sometimes intolerable itching.\nDescription\nAtopic dermatitis refers to a wide range of diseases",
+      "Eczema\u2014Inflammation of the skin with itching\nand a rash. The rash may have blisters that ooze\nand form crusts.\nPimple\u2014A small, red swelling of the skin.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPus\u2014Thick, whitish or yellowish fluid that forms\nin infected tissue.\nTriglyceride \u2014A substance formed in the body\nfrom fat in the diet.\nand stinging, and a warm feeling to the skin. These prob-\nlems usually go away as the body adjusts to the drug and"
+    ],
+    "expected_phrases": [
+      "eczema",
+      "skin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 26,
+    "question": "What is eczema?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Eczema is a general term for a variety of conditions that cause an itchy, inflamed skin rash.\u202fIt may present with inflammation, itching, and a rash that can develop blisters that ooze and form crusts.\u202f(The excerpts do not provide a more detailed definition.)",
+    "retrieved": [
+      "OTHER\nAtkins Center for Complementary Medicine. 152 E. 55th St.,\nNew York, NY 10022. 212-758-2110. <http://www.atkins\ncenter.com>.\nKen R. Wells\nAtopic dermatitis\nDefinition\nEczema is a general term used to describe a variety\nof conditions that cause an itchy, inflamed skin rash.\nAtopic dermatitis , a form of eczema, is a non-conta-\ngious disorder characterized by chronically inflamed\nskin and sometimes intolerable itching.\nDescription\nAtopic dermatitis refers to a wide range of diseases",
+      "OTHER\nAtkins Center for Complementary Medicine. 152 E. 55th St.,\nNew York, NY 10022. 212-758-2110. <http://www.atkins\ncenter.com>.\nKen R. Wells\nAtopic dermatitis\nDefinition\nEczema is a general term used to describe a variety\nof conditions that cause an itchy, inflamed skin rash.\nAtopic dermatitis , a form of eczema, is a non-conta-\ngious disorder characterized by chronically inflamed\nskin and sometimes intolerable itching.\nDescription\nAtopic dermatitis refers to a wide range of diseases",
+      "Eczema\u2014Inflammation of the skin with itching\nand a rash. The rash may have blisters that ooze\nand form crusts.\nPimple\u2014A small, red swelling of the skin.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPus\u2014Thick, whitish or yellowish fluid that forms\nin infected tissue.\nTriglyceride \u2014A substance formed in the body\nfrom fat in the diet.\nand stinging, and a warm feeling to the skin. These prob-\nlems usually go away as the body adjusts to the drug and"
+    ],
+    "expected_phrases": [
+      "eczema",
+      "skin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 27,
+    "question": "What is psoriasis?",
+    "variant": "baseline",
+    "answer": "Psoriasis is a skin disease in which people develop itchy, scaly, red patches on the skin.",
+    "retrieved": [
+      "to benefit the host.\nProtozoa \u2014Animal-like, one-celled organisms,\nsome of which cause diseases in people.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPurpura\u2014A spotty or patchy purplish rash caused\nby bleeding under the surface of the skin.\n\u2022 anticancer drugs\n\u2022 medicine for overactive thyroid\n\u2022 antiviral drugs such as zidovudine (Retrovir)\nThe list above does not include every medicine that\nmay interact with every antimalarial drug. Be sure to",
+      "to benefit the host.\nProtozoa \u2014Animal-like, one-celled organisms,\nsome of which cause diseases in people.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPurpura\u2014A spotty or patchy purplish rash caused\nby bleeding under the surface of the skin.\n\u2022 anticancer drugs\n\u2022 medicine for overactive thyroid\n\u2022 antiviral drugs such as zidovudine (Retrovir)\nThe list above does not include every medicine that\nmay interact with every antimalarial drug. Be sure to",
+      "in men that contributes to the production of semen.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nSystemic lupus erythematosus (SLE) \u2014A chronic\ndisease that affects the skin, joints, and certain\ninternal organs.\nTourette syndrome\u2014A condition in which a person\nhas tics and other involuntary behavior, such as\nbarking, sniffing, swearing, grunting, and making\nuncontrollable movements.\nTremor\u2014Shakiness or trembling."
+    ],
+    "expected_phrases": [
+      "psoriasis",
+      "skin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 27,
+    "question": "What is psoriasis?",
+    "variant": "evidence_first",
+    "answer": "Psoriasis is a skin disease in which people have itchy, scaly, red patches on the skin.",
+    "retrieved": [
+      "to benefit the host.\nProtozoa \u2014Animal-like, one-celled organisms,\nsome of which cause diseases in people.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPurpura\u2014A spotty or patchy purplish rash caused\nby bleeding under the surface of the skin.\n\u2022 anticancer drugs\n\u2022 medicine for overactive thyroid\n\u2022 antiviral drugs such as zidovudine (Retrovir)\nThe list above does not include every medicine that\nmay interact with every antimalarial drug. Be sure to",
+      "to benefit the host.\nProtozoa \u2014Animal-like, one-celled organisms,\nsome of which cause diseases in people.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPurpura\u2014A spotty or patchy purplish rash caused\nby bleeding under the surface of the skin.\n\u2022 anticancer drugs\n\u2022 medicine for overactive thyroid\n\u2022 antiviral drugs such as zidovudine (Retrovir)\nThe list above does not include every medicine that\nmay interact with every antimalarial drug. Be sure to",
+      "in men that contributes to the production of semen.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nSystemic lupus erythematosus (SLE) \u2014A chronic\ndisease that affects the skin, joints, and certain\ninternal organs.\nTourette syndrome\u2014A condition in which a person\nhas tics and other involuntary behavior, such as\nbarking, sniffing, swearing, grunting, and making\nuncontrollable movements.\nTremor\u2014Shakiness or trembling."
+    ],
+    "expected_phrases": [
+      "psoriasis",
+      "skin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 27,
+    "question": "What is psoriasis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Psoriasis is a skin disease in which people have itchy, scaly, red patches on the skin.",
+    "retrieved": [
+      "to benefit the host.\nProtozoa \u2014Animal-like, one-celled organisms,\nsome of which cause diseases in people.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPurpura\u2014A spotty or patchy purplish rash caused\nby bleeding under the surface of the skin.\n\u2022 anticancer drugs\n\u2022 medicine for overactive thyroid\n\u2022 antiviral drugs such as zidovudine (Retrovir)\nThe list above does not include every medicine that\nmay interact with every antimalarial drug. Be sure to",
+      "to benefit the host.\nProtozoa \u2014Animal-like, one-celled organisms,\nsome of which cause diseases in people.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nPurpura\u2014A spotty or patchy purplish rash caused\nby bleeding under the surface of the skin.\n\u2022 anticancer drugs\n\u2022 medicine for overactive thyroid\n\u2022 antiviral drugs such as zidovudine (Retrovir)\nThe list above does not include every medicine that\nmay interact with every antimalarial drug. Be sure to",
+      "in men that contributes to the production of semen.\nPsoriasis \u2014A skin disease in which people have\nitchy, scaly, red patches on the skin.\nSystemic lupus erythematosus (SLE) \u2014A chronic\ndisease that affects the skin, joints, and certain\ninternal organs.\nTourette syndrome\u2014A condition in which a person\nhas tics and other involuntary behavior, such as\nbarking, sniffing, swearing, grunting, and making\nuncontrollable movements.\nTremor\u2014Shakiness or trembling."
+    ],
+    "expected_phrases": [
+      "psoriasis",
+      "skin"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 28,
+    "question": "What is sepsis?",
+    "variant": "baseline",
+    "answer": "Sepsis is the presence of infection\u2011causing microorganisms or their toxins in the bloodstream or body tissues. It reflects a systemic response to infection that can lead to serious complications such as septic shock. Prompt identification and treatment of the underlying infection are essential.",
+    "retrieved": [
+      "the middle portion of the small intestine\n(jejunum), through the abdominal wall.\nSeptic shock \u2014A life-threatening drop in blood\npressure caused by bacterial infection.\nseptic shock. Since bacteremia is usually associated with\nan existing infection elsewhere in the body, finding and\ntreating this infection is an important part of treatment.\nBacteremia may cause no symptoms, but may be dis-\ncovered through a blood test for another condition. In this",
+      "the middle portion of the small intestine\n(jejunum), through the abdominal wall.\nSeptic shock \u2014A life-threatening drop in blood\npressure caused by bacterial infection.\nseptic shock. Since bacteremia is usually associated with\nan existing infection elsewhere in the body, finding and\ntreating this infection is an important part of treatment.\nBacteremia may cause no symptoms, but may be dis-\ncovered through a blood test for another condition. In this",
+      "Sepsis\u2014The presence of infection-causing organ-\nisms or associated toxins in the blood or within\nbody tissues.\nSpores\u2014A state of \u201csuspended animation\u201d that\nsome bacteria can adopt when conditions are not\nideal for growth. Spores are analogous to plant\nseeds and can germinate into growing bacteria\nwhen conditions are right.\nToxin\u2014A poisonous substance produced by a\nmicroorganism, plant, or animal.\nTracheostomy\u2014The procedure used to open a hole\nin the neck to the trachea, or windpipe. It is some-"
+    ],
+    "expected_phrases": [
+      "sepsis",
+      "infection"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 28,
+    "question": "What is sepsis?",
+    "variant": "evidence_first",
+    "answer": "Sepsis is the presence of infection\u2011causing organisms or their associated toxins in the blood or within body tissues.",
+    "retrieved": [
+      "the middle portion of the small intestine\n(jejunum), through the abdominal wall.\nSeptic shock \u2014A life-threatening drop in blood\npressure caused by bacterial infection.\nseptic shock. Since bacteremia is usually associated with\nan existing infection elsewhere in the body, finding and\ntreating this infection is an important part of treatment.\nBacteremia may cause no symptoms, but may be dis-\ncovered through a blood test for another condition. In this",
+      "the middle portion of the small intestine\n(jejunum), through the abdominal wall.\nSeptic shock \u2014A life-threatening drop in blood\npressure caused by bacterial infection.\nseptic shock. Since bacteremia is usually associated with\nan existing infection elsewhere in the body, finding and\ntreating this infection is an important part of treatment.\nBacteremia may cause no symptoms, but may be dis-\ncovered through a blood test for another condition. In this",
+      "Sepsis\u2014The presence of infection-causing organ-\nisms or associated toxins in the blood or within\nbody tissues.\nSpores\u2014A state of \u201csuspended animation\u201d that\nsome bacteria can adopt when conditions are not\nideal for growth. Spores are analogous to plant\nseeds and can germinate into growing bacteria\nwhen conditions are right.\nToxin\u2014A poisonous substance produced by a\nmicroorganism, plant, or animal.\nTracheostomy\u2014The procedure used to open a hole\nin the neck to the trachea, or windpipe. It is some-"
+    ],
+    "expected_phrases": [
+      "sepsis",
+      "infection"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 28,
+    "question": "What is sepsis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Sepsis is defined as the presence of infection\u2011causing organisms or their associated toxins in the blood or within body tissues.",
+    "retrieved": [
+      "the middle portion of the small intestine\n(jejunum), through the abdominal wall.\nSeptic shock \u2014A life-threatening drop in blood\npressure caused by bacterial infection.\nseptic shock. Since bacteremia is usually associated with\nan existing infection elsewhere in the body, finding and\ntreating this infection is an important part of treatment.\nBacteremia may cause no symptoms, but may be dis-\ncovered through a blood test for another condition. In this",
+      "the middle portion of the small intestine\n(jejunum), through the abdominal wall.\nSeptic shock \u2014A life-threatening drop in blood\npressure caused by bacterial infection.\nseptic shock. Since bacteremia is usually associated with\nan existing infection elsewhere in the body, finding and\ntreating this infection is an important part of treatment.\nBacteremia may cause no symptoms, but may be dis-\ncovered through a blood test for another condition. In this",
+      "Sepsis\u2014The presence of infection-causing organ-\nisms or associated toxins in the blood or within\nbody tissues.\nSpores\u2014A state of \u201csuspended animation\u201d that\nsome bacteria can adopt when conditions are not\nideal for growth. Spores are analogous to plant\nseeds and can germinate into growing bacteria\nwhen conditions are right.\nToxin\u2014A poisonous substance produced by a\nmicroorganism, plant, or animal.\nTracheostomy\u2014The procedure used to open a hole\nin the neck to the trachea, or windpipe. It is some-"
+    ],
+    "expected_phrases": [
+      "sepsis",
+      "infection"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 29,
+    "question": "What is anaphylaxis?",
+    "variant": "baseline",
+    "answer": "Anaphylaxis is a severe, potentially life\u2011threatening allergic reaction in which the immune system overreacts to normally harmless substances. It can develop within seconds to minutes, causing rapid airway constriction, skin and intestinal irritation, and abnormal heart rhythms. In extreme cases it may lead to complete airway blockage, shock, and death.",
+    "retrieved": [
+      "Description\nAnaphylaxis is a type of allergic reaction, in which\nthe immune system responds to otherwise harmless sub-\nstances from the environment. Unlike other allergic\nreactions, however, anaphylaxis can kill. Reaction may\nbegin within minutes or even seconds of exposure, and\nrapidly progress to cause airway constriction, skin and\nintestinal irritation, and altered heart rhythms. In severe\ncases, it can result in complete airway obstruction,\nshock, and death.\nCauses and symptoms\nCauses",
+      "Description\nAnaphylaxis is a type of allergic reaction, in which\nthe immune system responds to otherwise harmless sub-\nstances from the environment. Unlike other allergic\nreactions, however, anaphylaxis can kill. Reaction may\nbegin within minutes or even seconds of exposure, and\nrapidly progress to cause airway constriction, skin and\nintestinal irritation, and altered heart rhythms. In severe\ncases, it can result in complete airway obstruction,\nshock, and death.\nCauses and symptoms\nCauses",
+      "Anaphylaxis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 179"
+    ],
+    "expected_phrases": [
+      "anaphylaxis",
+      "allergic"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 29,
+    "question": "What is anaphylaxis?",
+    "variant": "evidence_first",
+    "answer": "Anaphylaxis is a severe allergic reaction in which the immune system reacts to otherwise harmless environmental substances. It can begin within seconds to minutes of exposure and rapidly cause airway constriction, skin and intestinal irritation, altered heart rhythms, and in extreme cases complete airway obstruction, shock, and death.",
+    "retrieved": [
+      "Description\nAnaphylaxis is a type of allergic reaction, in which\nthe immune system responds to otherwise harmless sub-\nstances from the environment. Unlike other allergic\nreactions, however, anaphylaxis can kill. Reaction may\nbegin within minutes or even seconds of exposure, and\nrapidly progress to cause airway constriction, skin and\nintestinal irritation, and altered heart rhythms. In severe\ncases, it can result in complete airway obstruction,\nshock, and death.\nCauses and symptoms\nCauses",
+      "Description\nAnaphylaxis is a type of allergic reaction, in which\nthe immune system responds to otherwise harmless sub-\nstances from the environment. Unlike other allergic\nreactions, however, anaphylaxis can kill. Reaction may\nbegin within minutes or even seconds of exposure, and\nrapidly progress to cause airway constriction, skin and\nintestinal irritation, and altered heart rhythms. In severe\ncases, it can result in complete airway obstruction,\nshock, and death.\nCauses and symptoms\nCauses",
+      "Anaphylaxis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 179"
+    ],
+    "expected_phrases": [
+      "anaphylaxis",
+      "allergic"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 29,
+    "question": "What is anaphylaxis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Anaphylaxis is a type of allergic reaction in which the immune system reacts to otherwise harmless environmental substances. It can develop within seconds to minutes of exposure and may quickly cause airway constriction, skin and intestinal irritation, altered heart rhythms, and in severe cases complete airway obstruction, shock, and death.",
+    "retrieved": [
+      "Description\nAnaphylaxis is a type of allergic reaction, in which\nthe immune system responds to otherwise harmless sub-\nstances from the environment. Unlike other allergic\nreactions, however, anaphylaxis can kill. Reaction may\nbegin within minutes or even seconds of exposure, and\nrapidly progress to cause airway constriction, skin and\nintestinal irritation, and altered heart rhythms. In severe\ncases, it can result in complete airway obstruction,\nshock, and death.\nCauses and symptoms\nCauses",
+      "Description\nAnaphylaxis is a type of allergic reaction, in which\nthe immune system responds to otherwise harmless sub-\nstances from the environment. Unlike other allergic\nreactions, however, anaphylaxis can kill. Reaction may\nbegin within minutes or even seconds of exposure, and\nrapidly progress to cause airway constriction, skin and\nintestinal irritation, and altered heart rhythms. In severe\ncases, it can result in complete airway obstruction,\nshock, and death.\nCauses and symptoms\nCauses",
+      "Anaphylaxis\nGEM - 0001 to 0432 - A  10/22/03 1:42 PM  Page 179"
+    ],
+    "expected_phrases": [
+      "anaphylaxis",
+      "allergic"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 30,
+    "question": "What is meningitis?",
+    "variant": "baseline",
+    "answer": "Meningitis is the inflammation of the meninges, the protective membranes that surround the brain and spinal cord. It can result from infections, such as bacterial or viral agents, or other causes that irritate these membranes. Symptoms often include headache, fever, neck stiffness, and neurological disturbances.",
+    "retrieved": [
+      "ing of the central nervous system (meningitis).\nPrevention\nBacteremia can be prevented by preventing the\ninfections which often precede it. Good personal\nhygiene, especially during viral illness, may reduce the\nrisk of developing bacterial infection. Treating bacterial\ninfections quickly and thoroughly can minimize the risk\nof spreading infection. During medical procedures, the\nburden falls on medical professionals to minimize the\nnumber and duration of invasive procedures, to reduce",
+      "ing of the central nervous system (meningitis).\nPrevention\nBacteremia can be prevented by preventing the\ninfections which often precede it. Good personal\nhygiene, especially during viral illness, may reduce the\nrisk of developing bacterial infection. Treating bacterial\ninfections quickly and thoroughly can minimize the risk\nof spreading infection. During medical procedures, the\nburden falls on medical professionals to minimize the\nnumber and duration of invasive procedures, to reduce",
+      "immune system is suppressed or not functioning\nproperly.\nMeningitis\u2014Inflammation of the membranes cov-\nering the brain and spinal cord, called the\nmeninges.\nNebulizer\u2014A device that produces an extremely\nfine mist that is readily inhalable.\nSpores\u2014The small, thick-walled reproductive\nstructures of fungi.\nSputum\u2014Mucus and other matter coughed up\nfrom the airways.\nORGANIZATIONS\nAmerican College of Allergy, Asthma, and Immunology. 85\nWest Algonquin Road, Suite 550, Arlington Heights, IL"
+    ],
+    "expected_phrases": [
+      "meningitis",
+      "meninges"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 30,
+    "question": "What is meningitis?",
+    "variant": "evidence_first",
+    "answer": "Meningitis is the inflammation of the membranes that cover the brain and spinal cord, known as the meninges.",
+    "retrieved": [
+      "ing of the central nervous system (meningitis).\nPrevention\nBacteremia can be prevented by preventing the\ninfections which often precede it. Good personal\nhygiene, especially during viral illness, may reduce the\nrisk of developing bacterial infection. Treating bacterial\ninfections quickly and thoroughly can minimize the risk\nof spreading infection. During medical procedures, the\nburden falls on medical professionals to minimize the\nnumber and duration of invasive procedures, to reduce",
+      "ing of the central nervous system (meningitis).\nPrevention\nBacteremia can be prevented by preventing the\ninfections which often precede it. Good personal\nhygiene, especially during viral illness, may reduce the\nrisk of developing bacterial infection. Treating bacterial\ninfections quickly and thoroughly can minimize the risk\nof spreading infection. During medical procedures, the\nburden falls on medical professionals to minimize the\nnumber and duration of invasive procedures, to reduce",
+      "immune system is suppressed or not functioning\nproperly.\nMeningitis\u2014Inflammation of the membranes cov-\nering the brain and spinal cord, called the\nmeninges.\nNebulizer\u2014A device that produces an extremely\nfine mist that is readily inhalable.\nSpores\u2014The small, thick-walled reproductive\nstructures of fungi.\nSputum\u2014Mucus and other matter coughed up\nfrom the airways.\nORGANIZATIONS\nAmerican College of Allergy, Asthma, and Immunology. 85\nWest Algonquin Road, Suite 550, Arlington Heights, IL"
+    ],
+    "expected_phrases": [
+      "meningitis",
+      "meninges"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  },
+  {
+    "id": 30,
+    "question": "What is meningitis?",
+    "variant": "evidence_with_uncertainty",
+    "answer": "Meningitis is the inflammation of the membranes (meninges) that cover the brain and spinal cord.",
+    "retrieved": [
+      "ing of the central nervous system (meningitis).\nPrevention\nBacteremia can be prevented by preventing the\ninfections which often precede it. Good personal\nhygiene, especially during viral illness, may reduce the\nrisk of developing bacterial infection. Treating bacterial\ninfections quickly and thoroughly can minimize the risk\nof spreading infection. During medical procedures, the\nburden falls on medical professionals to minimize the\nnumber and duration of invasive procedures, to reduce",
+      "ing of the central nervous system (meningitis).\nPrevention\nBacteremia can be prevented by preventing the\ninfections which often precede it. Good personal\nhygiene, especially during viral illness, may reduce the\nrisk of developing bacterial infection. Treating bacterial\ninfections quickly and thoroughly can minimize the risk\nof spreading infection. During medical procedures, the\nburden falls on medical professionals to minimize the\nnumber and duration of invasive procedures, to reduce",
+      "immune system is suppressed or not functioning\nproperly.\nMeningitis\u2014Inflammation of the membranes cov-\nering the brain and spinal cord, called the\nmeninges.\nNebulizer\u2014A device that produces an extremely\nfine mist that is readily inhalable.\nSpores\u2014The small, thick-walled reproductive\nstructures of fungi.\nSputum\u2014Mucus and other matter coughed up\nfrom the airways.\nORGANIZATIONS\nAmerican College of Allergy, Asthma, and Immunology. 85\nWest Algonquin Road, Suite 550, Arlington Heights, IL"
+    ],
+    "expected_phrases": [
+      "meningitis",
+      "meninges"
+    ],
+    "retrieval_hit_at_3": true,
+    "grounding_proxy": true
+  }
+]

@@ -1,72 +1,40 @@
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# Knowledge Graph Medical Chatbot
 
-# How to run?
-### STEPS:
+A Flask medical-reference chatbot using hybrid retrieval augmented generation. It extracts entities and relationships from PDF source material into Neo4j, retrieves related facts with Cypher, combines those results with Pinecone vector search, and generates an answer with Groq.
 
-Clone the repository
+## Quick start
 
-```bash
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
-```
-### STEP 01- Create a conda environment after opening the repository
+1. Install Python 3.10 and create a virtual environment.
+2. Install dependencies and prepare local configuration:
 
-```bash
-conda create -n medibot python=3.10 -y
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-```bash
-conda activate medibot
-```
+   Copy `.env.example` to `.env`, then fill in valid Pinecone, Groq, and Neo4j credentials. Never commit `.env`.
 
+3. Put source PDFs in `data/` and build the graph and vector indexes:
 
-### STEP 02- install the requirements
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   python store_index.py
+   ```
 
+4. Start the web app and open `http://127.0.0.1:8080`:
 
-### Create a `.env` file in the root directory and add your Pinecone and Groq credentials as follows:
+   ```bash
+   python app.py
+   ```
 
-```ini
-PINECONE_API_KEY="your-pinecone-key"
-GROQ_API_KEY="your-groq-key"
-```
+Indexing calls the Groq model for entity and relationship extraction from every text chunk, so its runtime and API usage depend on the amount of PDF content.
 
+## Documentation
 
-```bash
-# run the following command to store embeddings to pinecone
-python store_index.py
-```
+See [APP_DOCUMENTATION.md](APP_DOCUMENTATION.md) for the architecture, graph schema, retrieval flow, configuration, local run instructions, evaluation notes, Docker deployment, AWS/GitHub Actions setup, and troubleshooting.
 
-```bash
-# Finally run the following command
-python app.py
-```
+## Evaluation
 
-Now,
-```bash
-open up http://127.0.0.1:8080
-```
+`evaluate_rag.py` contains a small Pinecone-only baseline prompt evaluation. Its phrase-based hit@3 and grounding scores are screening metrics, not clinical correctness measurements. The main app uses both Neo4j and Pinecone.
 
+## Safety and privacy
 
-### Techstack Used:
-
-- Python
-- LangChain
-- Flask
-- GPT
-- Pinecone
-
-
-
-# Deploy to an AWS EC2 instance
-
-The GitHub Actions workflow builds the Docker image, pushes it to ECR, then deploys it to an EC2-hosted self-hosted GitHub Actions runner.
-
-1. Create an ECR repository and an Ubuntu EC2 instance in the same AWS region. Install Docker on the instance and configure the GitHub Actions self-hosted runner there. The runner user must be able to run Docker commands.
-2. Attach an EC2 instance role that grants read access to the ECR repository (for example, `AmazonEC2ContainerRegistryReadOnly`). The GitHub Actions build job needs credentials with permission to push to that ECR repository; store them as GitHub Actions secrets.
-3. In the EC2 security group, allow inbound TCP port 80 from the clients that should access the app. For a public demo, that can be `0.0.0.0/0`; for private use, restrict it to your IP or network.
-4. Add these repository secrets in GitHub: `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_DEFAULT_REGION`, `ECR_REPO` (repository name only), `PINECONE_API_KEY`, and `GROQ_API_KEY`.
-5. Push to the `main` branch. The workflow publishes the image and replaces the `medical-chatbot` container, serving it on port 80.
-
-Do not commit `.env` or put API keys in the Docker image. The deployment passes the Pinecone and Groq keys to the running container as environment variables.
+This is a medical information demo, not a diagnostic or emergency service. The app has no authentication or rate limiting. Questions and retrieved text are sent to Groq; avoid submitting personal health information.
