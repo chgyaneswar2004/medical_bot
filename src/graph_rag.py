@@ -18,6 +18,67 @@ Use concise canonical entity names. Include only entities and relationships supp
 QUERY_ENTITY_PROMPT = """Find the medical entities explicitly mentioned in the question.
 Return only a JSON object shaped like {"entities":[{"name":"...","type":"..."}]}. Do not answer the question. Return an empty array if no entities are present."""
 
+GRAPH_EXTRACTION_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "entities": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "type": {"type": "string"},
+                },
+                "required": ["name", "type"],
+                "additionalProperties": False,
+            },
+        },
+        "relationships": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "source": {"type": "string"},
+                    "target": {"type": "string"},
+                    "type": {"type": "string"},
+                },
+                "required": ["source", "target", "type"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["entities", "relationships"],
+    "additionalProperties": False,
+}
+
+QUERY_ENTITY_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "entities": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "type": {"type": "string"},
+                },
+                "required": ["name", "type"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["entities"],
+    "additionalProperties": False,
+}
+
+
+def groq_json_schema(name: str, schema: dict[str, Any]) -> dict[str, Any]:
+    """Build Groq strict JSON Schema response_format for supported models."""
+    return {
+        "type": "json_schema",
+        "json_schema": {"name": name, "strict": True, "schema": schema},
+    }
+
 
 def stable_chunk_id(document: Any, chunk_number: int) -> str:
     source = str(document.metadata.get("source", "unknown"))
@@ -141,6 +202,16 @@ class Neo4jGraphStore:
     def close(self) -> None:
         self.driver.close()
 
+    def has_chunk(self, chunk_id: str) -> bool:
+        """Return whether the chunk was committed to Neo4j by a prior run."""
+        with self.driver.session(database=self.database) as session:
+            record = session.run(
+                "MATCH (chunk:Chunk {id: $chunk_id}) "
+                "RETURN count(chunk) > 0 AS present",
+                chunk_id=chunk_id,
+            ).single()
+            return bool(record and record["present"])
+
     def store_chunk(
         self,
         chunk_id: str,
@@ -149,13 +220,13 @@ class Neo4jGraphStore:
         page: str,
         graph_data: dict[str, list[dict[str, str]]],
     ) -> None:
-        with self.driver.session(database=self.database) as session:
-            session.run(
+        def write_transaction(tx):
+            tx.run(
                 "MERGE (chunk:Chunk {id: $chunk_id}) "
                 "SET chunk.text = $text, chunk.source = $source, chunk.page = $page",
                 chunk_id=chunk_id, text=text, source=source, page=page,
             ).consume()
-            session.run(
+            tx.run(
                 "MATCH (chunk:Chunk {id: $chunk_id}) "
                 "UNWIND $entities AS item "
                 "MERGE (entity:Entity {key: item.key}) "
@@ -163,13 +234,16 @@ class Neo4jGraphStore:
                 "MERGE (chunk)-[:MENTIONS]->(entity)",
                 chunk_id=chunk_id, entities=graph_data["entities"],
             ).consume()
-            session.run(
+            tx.run(
                 "UNWIND $relationships AS item "
                 "MATCH (source:Entity {key: item.source_key}) "
                 "MATCH (target:Entity {key: item.target_key}) "
                 "MERGE (source)-[relation:RELATED_TO {type: item.type}]->(target)",
                 relationships=graph_data["relationships"],
             ).consume()
+
+        with self.driver.session(database=self.database) as session:
+            session.execute_write(write_transaction)
 
     def search(self, entity_names: list[str], limit: int = 12) -> list[dict[str, str]]:
         keys = list(dict.fromkeys(_key(name) for name in entity_names if name))

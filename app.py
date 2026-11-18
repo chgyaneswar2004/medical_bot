@@ -7,7 +7,12 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 from langchain_pinecone import PineconeVectorStore
 
-from src.graph_rag import Neo4jGraphStore, extract_query_entities
+from src.graph_rag import (
+    Neo4jGraphStore,
+    QUERY_ENTITY_SCHEMA,
+    extract_query_entities,
+    groq_json_schema,
+)
 from src.helper import download_hugging_face_embeddings
 from src.prompt import system_prompt
 
@@ -45,7 +50,9 @@ model_name = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 chat_model = ChatGroq(model=model_name)
 entity_model = ChatGroq(
     model=model_name,
-    model_kwargs={"response_format": {"type": "json_object"}},
+    model_kwargs={
+        "response_format": groq_json_schema("question_entities", QUERY_ENTITY_SCHEMA),
+    },
 )
 answer_prompt = ChatPromptTemplate.from_messages([
     ("system", system_prompt),

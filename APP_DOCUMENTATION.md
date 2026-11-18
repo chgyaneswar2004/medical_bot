@@ -107,7 +107,7 @@ python store_index.py
 
 The indexer loads PDF pages, retains source and page metadata, splits text into 1,000-character chunks with 100-character overlap, and computes embeddings. For every chunk, it asks Groq to return entities and relationships as JSON, writes the graph data to Neo4j, and upserts the chunk vector to Pinecone using a stable ID.
 
-Indexing calls Groq once per chunk, so a large book may take a while and use API quota. Re-running for unchanged content is idempotent. Changed chunks get new IDs; the script does not remove old chunks from either database. If replacing/removing PDFs, remove stale graph/vector records deliberately before rebuilding.
+Indexing calls Groq once per chunk, so a large book may take a while and use API quota. If interrupted, rerunning skips chunks already committed to Neo4j and continues with the remaining chunks; after graph extraction completes, it upserts the full vector set using stable IDs. Changed chunks get new IDs; the script does not remove old chunks from either database. If replacing/removing PDFs, remove stale graph/vector records deliberately before rebuilding.
 
 ## 8. Start the local application
 
